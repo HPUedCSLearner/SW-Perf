@@ -1,0 +1,2176 @@
+0x4ffff07c0c90
+__sendrecvtmatmodule_MOD_getprocwisesourceprocs /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:335 
+0x4ffff07c0dd8
+__sendrecvtmatmodule_MOD_getprocwisetargetprocs /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:313 
+0x4ffff07c0f20
+__sendrecvtmatmodule_MOD_getnumprocwisereceives /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:295 
+0x4ffff07c10d0
+__sendrecvtmatmodule_MOD_getnonlocalneighbors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:254 
+0x4ffff0a8c1b8
+allocateexchsssmat /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:357 
+0x4ffff06e8ca8
+setblockalgorithm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:244 
+0x4ffff06e295c
+find_sym /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:1160 
+0x4ffff0866920
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff15c0f3c
+MPI_Iprobe /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:911 
+0x4ffff088698c
+__sssolvermodule_MOD_getscatteringmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5886 
+0x4ffff15c312c
+__wrap_zgetrs_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:26 
+0x4ffff15c3070
+__wrap_zgetrf_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:18 
+0x4ffff0a91d40
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff0864ae0
+__rspacestrconstmodule_MOD_getstrconstmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:193 
+0x4ffff0a8aef4
+exchangesssmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:443 
+0x4ffff06e2628
+gettarget_3c /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:1398 
+0x4ffff087d1b8
+solveradeqn4irr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6485 
+0x4ffff08ac4e4
+allocateirrspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1190 
+0x4ffff07e1c70
+intphi /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2952 
+0x4ffff07e2d8c
+cleanup /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2876 
+0x4ffff0b4fadc
+addspincantstruct_c /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5061 
+0x4ffff0883ec4
+__sssolvermodule_MOD_getfreeelectrondos /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6155 
+0x4ffff096d944
+richnk /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4006 
+0x4ffff0971a5c
+invals /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3111 
+0x4ffff15c0dc4
+MPI_Wait /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:718 
+0x4ffff15c06cc
+MPI_Isend /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:313 
+0x4ffff0865750
+__rspacestrconstmodule_MOD_endrspacestrconst /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:166 
+0x4ffff0a8bed4
+cleanexchsssmat /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:421 
+0x4ffff07c80a8
+__atommodule_MOD_setlocalmoment_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1018 
+0x4ffff07333d8
+__scfdatamodule_MOD_getcantedmomenttorquefactor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1285 
+0x4ffff07fe2e4
+__systemsymmetrymodule_MOD_getsymmetryflags1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:443 
+0x4ffff0b206e4
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff0b08ed0
+__mssolvermodule_MOD_getmsgreenfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:661 
+0x4ffff15c2ed0
+__wrap_zgemm_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:7 
+0x4ffff08866dc
+__sssolvermodule_MOD_getregsolution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5962 
+0x4ffff0886488
+__sssolvermodule_MOD_getsolutionrmeshsize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6026 
+0x4ffff0b08a0c
+computemstmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:713 
+0x4ffff0877984
+__sssolvermodule_MOD_computegf0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6829 
+0x4ffff07eaa54
+__stepfunctionmodule_MOD_getvolumeintegration1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:1256 
+0x4ffff0869a78
+__spinrotationmodule_MOD_transformdm1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:375 
+0x4ffff0b58e50
+sumesval_r /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4568 
+0x4ffff0b5018c
+addelectrostruct_c /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4933 
+0x4ffff0769a34
+__contourmodule_MOD_getewall /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1102 
+0x4ffff076986c
+__contourmodule_MOD_geteall /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1148 
+0x4ffff076a2ac
+setupgaugrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:724 
+0x4ffff06e9d9c
+__matrixblockinversionmodule_MOD_initmatrixblockinv /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:54 
+0x4ffff089c02c
+solveradeqn4reg /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:2244 
+0x4ffff084c3f4
+__potentialmodule_MOD_getpoten_l1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:794 
+0x4ffff084d510
+__potentialmodule_MOD_ispotcomponentzero /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:672 
+0x4ffff08afc44
+initglobalvariables /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1123 
+0x4ffff096efc0
+inws /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3608 
+0x4ffff07f5110
+calgammafunc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:1171 
+0x4ffff07e3f4c
+stepyll /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2586 
+0x4ffff0779ac4
+__polyhedramodule_MOD_getedge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2579 
+0x4ffff077a4b8
+__polyhedramodule_MOD_getnumedges /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2516 
+0x4ffff07c1218
+__sendrecvtmatmodule_MOD_getmaxneighbors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:214 
+0x4ffff077c53c
+chkpnt /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1984 
+0x4ffff0787768
+chkbnd /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1513 
+0x4ffff0787e5c
+filter_edge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1363 
+0x4ffff06c80a8
+__chemelementmodule_MOD_getcorestatesymbol_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2240 
+0x4ffff06c853c
+__chemelementmodule_MOD_getcorestatekappa_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2170 
+0x4ffff06c8e14
+__chemelementmodule_MOD_getcorestaten_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2030 
+0x4ffff073f158
+__exchcorrfunctionalmodule_MOD_getexchcorrenden_s /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:564 
+0x4ffff06e6698
+zblock_lu1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:599 
+0x4ffff096c384
+__corestatesmodule_MOD_getscd0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4238 
+0x4ffff073efb4
+__exchcorrfunctionalmodule_MOD_getexchcorrenden_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:583 
+0x4ffff088b798
+__sssolvermodule_MOD_getgreenfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5072 
+0x4ffff0b0dc74
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff0a0acb4
+__chargedistributionmodule_MOD_getglobalonsiteelectrontable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:585 
+0x4ffff0a0abb8
+__chargedistributionmodule_MOD_getglobalmtsphereelectrontable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:597 
+0x4ffff07a04b8
+__systemvolumemodule_MOD_gettotalinterstitialvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:238 
+0x4ffff0732d8c
+__scfdatamodule_MOD_isinterstitialelectronpolarized /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1488 
+0x4ffff0bad220
+setupicfmsgbuf_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/putpotg.F90:422 
+0x4ffff073c3a0
+__exchcorrfunctionalmodule_MOD_calsphexchangecorrelation_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:765 
+0x4ffff0a0a8c4
+__chargedistributionmodule_MOD_getglobalmtsphereelectrontableold /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:633 
+0x4ffff15c07e0
+MPI_Recv /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:367 
+0x4ffff0a0a36c
+__chargedistributionmodule_MOD_getinterstitialelectrondensityold /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:729 
+0x4ffff08ac06c
+deallocateirrspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1248 
+0x4ffff0a91b7c
+aliasarray3_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357 
+0x4ffff0a8d4dc
+__clustermatrixmodule_MOD_endclustermatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:295 
+0x4ffff09c0f7c
+__valencedensitymodule_MOD_updatefermienergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2289 
+0x4ffff09bb084
+__valencedensitymodule_MOD_updatevalenceevec /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2858 
+0x4ffff09bd18c
+__valencedensitymodule_MOD_updatevalencedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2468 
+0x4ffff072ae88
+averagecfuncxproc_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/averageAcrossProcesses.F90:28 
+0x4ffff0b5383c
+addelectrostruct_r /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4837 
+0x4ffff0777280
+__procmappingmodule_MOD_getnumesonmyproc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:257 
+0x4ffff096d2d8
+__corestatesmodule_MOD_getdcd0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4099 
+0x4ffff0b4d6f4
+mufind /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5270 
+0x4ffff0b5b080
+calelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4278 
+0x4ffff0b1c01c
+__multiscatteringdosmodule_MOD_getmscatteringdos /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:133 
+0x4ffff0b20480
+__multiscatteringdosmodule_MOD_setmsp_specific /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:96 
+0x4ffff0b04fbc
+__mssolvermodule_MOD_computemsgreenfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:793 
+0x4ffff0a6b640
+setworkingspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1363 
+0x4ffff0bbf640
+adjustenergy_c_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/adjustEnergy.F90:36 
+0x4ffff0a0a9c0
+__chargedistributionmodule_MOD_getglobalonsiteelectrontableold /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:621 
+0x4ffff0b5a7a8
+transformelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4497 
+0x4ffff0b5e29c
+calmultiplescatteringidos /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:3990 
+0x4ffff092e22c
+__singlescatteringdosmodule_MOD_setssp_ef /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SingleScatteringDOSModule.F90:104 
+0x4ffff076ecf4
+__contourmodule_MOD_setupcontour /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:367 
+0x4ffff0a8dd20
+__clustermatrixmodule_MOD_initclustermatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:118 
+0x4ffff0b09ffc
+initparameters /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:385 
+0x4ffff08c6718
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff07335a0
+__scfdatamodule_MOD_getlmaxsolution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1246 
+0x4ffff08afba4
+getkmaxintern /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1174 
+0x4ffff07e6fd8
+__stepfunctionmodule_MOD_getnumgaussrs /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2399 
+0x4ffff0849160
+__potentialmodule_MOD_gettruncpotlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1685 
+0x4ffff07336d0
+__scfdatamodule_MOD_getsinglesitesolvermethod /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1220 
+0x4ffff0849238
+__potentialmodule_MOD_getpotlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1672 
+0x4ffff086a2b8
+u_sigma_u /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:337 
+0x4ffff09707dc
+semcst /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3233 
+0x4ffff07dbf98
+setupintwkspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3875 
+0x4ffff0a54a04
+getu0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1891 
+0x4ffff0a10e04
+aliasarray2_r /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:261 
+0x4ffff08311b8
+__radialgridmodule_MOD_getmaxnumrmesh /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1296 
+0x4ffff0745600
+__systemmodule_MOD_setlatticeconstant /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1703 
+0x4ffff07482bc
+__systemmodule_MOD_getatomtype_1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:995 
+0x4ffff07e2f8c
+caltnode /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2755 
+0x4ffff07eeda8
+__stepfunctionmodule_MOD_getstepfunction3 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:825 
+0x4ffff072a78c
+lattice_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/lattice.F90:61 
+0x4ffff072a3d0
+numlat_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/lattice.F90:2 
+0x4ffff07e19e8
+sigma /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3092 
+0x4ffff0868d84
+__spinrotationmodule_MOD_transformdm3 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:442 
+0x4ffff077a5fc
+__polyhedramodule_MOD_getnumcorners /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2497 
+0x4ffff077c0d4
+__polyhedramodule_MOD_getnumplanes /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2130 
+0x4ffff07f70c8
+getkncut /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:762 
+0x4ffff07e55dc
+computecriticalpoints /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2483 
+0x4ffff096dfd4
+outws /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3753 
+0x4ffff0b0dab0
+aliasarray3_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357 
+0x4ffff06cb048
+initchemelement /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:122 
+0x4ffff077c7dc
+getparea /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1806 
+0x4ffff0788898
+setupcellbound /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1047 
+0x4ffff06ffc50
+__defaultparammodule_MOD_getdefaultvalue_r1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:323 
+0x4ffff06ee308
+loaddefaultkeyvalues /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:489 
+0x4ffff15c1e80
+MPI_Wtime /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:2432 
+0x4ffff0748924
+__systemmodule_MOD_endsystem /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:837 
+0x4ffff09c2b60
+__valencedensitymodule_MOD_updatevalenceenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2250 
+0x4ffff07ff9d4
+caltruncsymmetryflags /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:211 
+0x4ffff0778244
+__atom2procmodule_MOD_endatom2proc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:122 
+0x4ffff07c8520
+__atommodule_MOD_endatom /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:987 
+0x4ffff07c6120
+__atommodule_MOD_getlizlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1503 
+0x4ffff070f894
+__checkpointmodule_MOD_endcheckpoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:52 
+0x4ffff0746660
+__systemmodule_MOD_setmomentdirection /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1416 
+0x4ffff0b4c478
+averageelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5701 
+0x4ffff0b8a4d4
+setupelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:596 
+0x4ffff07f7844
+getrscut /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:677 
+0x4ffff0a70678
+calbroydenmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:648 
+0x4ffff0a58c80
+computesphericaltotalenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:925 
+0x4ffff084f004
+__potentialmodule_MOD_endpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:533 
+0x4ffff072dfb4
+__inputmodule_MOD_getkeyvalue_int0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:979 
+0x4ffff07fb418
+__madelungmodule_MOD_endmadelung /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:287 
+0x4ffff08c6554
+aliasarray3_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357 
+0x4ffff0831484
+__radialgridmodule_MOD_getgrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1249 
+0x4ffff07c58fc
+__atommodule_MOD_getipff1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1593 
+0x4ffff08abf3c
+isirrsoltypevalid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1272 
+0x4ffff09d3064
+__valencedensitymodule_MOD_endvalencedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:433 
+0x4ffff07a43d8
+__outputmodule_MOD_isoutputatombased /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:406 
+0x4ffff0a64d3c
+__totalenergymodule_MOD_endtotalenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:134 
+0x4ffff0a64350
+__totalenergymodule_MOD_computeenergyfunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:223 
+0x4ffff0745ea8
+__systemmodule_MOD_setconstrainfield /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1547 
+0x4ffff15c0514
+MPI_Finalize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:79 
+0x4ffff09694c8
+__corestatesmodule_MOD_getcorevpc1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4618 
+0x4ffff09b9d64
+__constrainlocalmomentmodule_MOD_endconstrainlm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:122 
+0x4ffff07c5a5c
+__atommodule_MOD_getipff0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1580 
+0x4ffff07c13c8
+__sendrecvtmatmodule_MOD_endsendrecvtmat /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:150 
+0x4ffff09ca2d8
+__valencedensitymodule_MOD_getved2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1466 
+0x4ffff0779e94
+__polyhedramodule_MOD_getcorner /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2557 
+0x4ffff07b5524
+__neighbormodule_MOD_setsendtable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:792 
+0x4ffff0742f30
+__systemmodule_MOD_writemomentdirectiondata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:2020 
+0x4ffff07c77a0
+__atommodule_MOD_updatelocalexchangefielddir /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1173 
+0x4ffff0ba02e8
+updatemixrealvalues_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/updateMixRealValues.F90:2 
+0x4ffff09cfad8
+__valencedensitymodule_MOD_setvalencevpcharge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:642 
+0x4ffff0965a80
+updateglobalcorestatestable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:5171 
+0x4ffff07e2ac8
+intpl0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2904 
+0x4ffff07c7638
+__atommodule_MOD_setlocalconstrainfield /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1197 
+0x4ffff15c1754
+MPI_Comm_free /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1432 
+0x4ffff0b90d14
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff0732ccc
+__scfdatamodule_MOD_isldacorrectionneeded /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1506 
+0x4ffff0b8c9b8
+__gfmethodmodule_MOD_initgfmethod /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:173 
+0x4ffff07469c8
+__systemmodule_MOD_getmomentdirection_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1379 
+0x4ffff0a39454
+__potentialgenerationmodule_MOD_computenewpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:1215 
+0x4ffff086c3b4
+__spinrotationmodule_MOD_rotateltog /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:126 
+0x4ffff0700900
+__defaultparammodule_MOD_getdefaultvalue_s0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:56 
+0x4ffff070fadc
+readpositiondata_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/readPositionData.F90:20 
+0x4ffff0963cdc
+__kreinmodule_MOD_endkrein /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:100 
+0x4ffff09b3dbc
+__constrainlocalmomentmodule_MOD_updateconstrainlm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:602 
+0x4ffff15c13c8
+MPI_Bcast /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1132 
+0x4ffff07c7438
+__atommodule_MOD_getlocalconstrainfield /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1214 
+0x4ffff077a844
+__polyhedramodule_MOD_getinscrsphvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2457 
+0x4ffff0b9bfcc
+setupmixingscheme_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupMixingScheme.F90:2 
+0x4ffff0732ed0
+__scfdatamodule_MOD_islloyd /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1438 
+0x4ffff0a4bd00
+__potentialgenerationmodule_MOD_initpotentialgeneration /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:207 
+0x4ffff0700db8
+__defaultparammodule_MOD_initdefaultparam /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:27 
+0x4ffff08350b8
+__radialgridmodule_MOD_initradialgrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:91 
+0x4ffff073e538
+__exchcorrfunctionalmodule_MOD_calsphexchangecorrelation_s /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:654 
+0x4ffff0a0d2a8
+__chargedistributionmodule_MOD_initchargedistribution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:102 
+0x4ffff0742b64
+__systemmodule_MOD_resetsystemmovie /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:2204 
+0x4ffff0a0aabc
+__chargedistributionmodule_MOD_getglobalvpcellelectrontable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:609 
+0x4ffff09d3d60
+__valencedensitymodule_MOD_initvalencedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:159 
+0x4ffff07459d8
+__systemmodule_MOD_setrmsinfo /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1643 
+0x4ffff07ef3f4
+__stepfunctionmodule_MOD_endstepfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:644 
+0x4ffff0834da8
+__radialgridmodule_MOD_endradialgrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:123 
+0x4ffff07b6508
+__neighbormodule_MOD_setmaxreceives /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:773 
+0x4ffff15c1314
+MPI_Barrier /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1106 
+0x4ffff0736100
+__scfdatamodule_MOD_isfrozencore /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:601 
+0x4ffff07c6bd0
+__atommodule_MOD_getlocalspeciescontent /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1307 
+0x4ffff0999138
+__corestatesmodule_MOD_readcorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:537 
+0x4ffff0a65e34
+__convergencecheckmodule_MOD_checkconvergence /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:91 
+0x4ffff0739d28
+__potentialtypemodule_MOD_endpotentialtype /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:48 
+0x4ffff077a9b0
+__polyhedramodule_MOD_getvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2437 
+0x4ffff0b20560
+__multiscatteringdosmodule_MOD_setmsp_generic /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:65 
+0x4ffff07a0764
+__systemvolumemodule_MOD_initsystemvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:44 
+0x4ffff0747920
+__systemmodule_MOD_getnumvacancies /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1134 
+0x4ffff09954e0
+__corestatesmodule_MOD_endcorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:957 
+0x4ffff07331b0
+__scfdatamodule_MOD_isdgamixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1348 
+0x4ffff07c64cc
+__atommodule_MOD_getrholmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1404 
+0x4ffff073435c
+__scfdatamodule_MOD_isreademesh /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:959 
+0x4ffff0736010
+__scfdatamodule_MOD_isnonrelativisticcore /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:642 
+0x4ffff0800470
+__systemsymmetrymodule_MOD_calsymmetryflags /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:126 
+0x4ffff06e96f0
+__matrixblockinversionmodule_MOD_endmatrixblockinv /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:214 
+0x4ffff082a504
+__ldacorrectionmodule_MOD_islcn_al /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:292 
+0x4ffff0777d78
+__atom2procmodule_MOD_getatom2procingroup /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:189 
+0x4ffff07c4cf0
+__atommodule_MOD_getmixingparam4evec /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1891 
+0x4ffff0733638
+__scfdatamodule_MOD_getlmaxpotsolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1233 
+0x4ffff06caa48
+__chemelementmodule_MOD_getztot /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1706 
+0x4ffff07349c4
+__scfdatamodule_MOD_iskkrcpa /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:840 
+0x4ffff073f230
+__exchcorrfunctionalmodule_MOD_endexchcorrfunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:513 
+0x4ffff0734728
+__scfdatamodule_MOD_isscreenkkr_lsms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:901 
+0x4ffff07c4a60
+__atommodule_MOD_setmuffintinradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1944 
+0x4ffff07f000c
+setupstepfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:438 
+0x4ffff074779c
+__systemmodule_MOD_getbravaislattice /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1173 
+0x4ffff07a4300
+__outputmodule_MOD_getstandardoutputlevel_0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:426 
+0x4ffff0b8beb4
+__gfmethodmodule_MOD_endgfmethod /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:520 
+0x4ffff0a774bc
+__mixingmodule_MOD_mixvalues /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:250 
+0x4ffff0a007a8
+getsizeof /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1091 
+0x4ffff0777318
+__procmappingmodule_MOD_endprocmapping /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:162 
+0x4ffff08011c8
+__systemsymmetrymodule_MOD_endsystemsymmetry /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:104 
+0x4ffff06c98f0
+__chemelementmodule_MOD_getzval_n /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1918 
+0x4ffff073f658
+__exchcorrfunctionalmodule_MOD_initexchcorrfunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:108 
+0x4ffff086aa18
+__spinrotationmodule_MOD_rotategtol /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:214 
+0x4ffff0769c00
+__contourmodule_MOD_getnes /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1042 
+0x4ffff076f204
+__contourmodule_MOD_initcontour1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:244 
+0x4ffff0832624
+__radialgridmodule_MOD_genradialgrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:832 
+0x4ffff07460d8
+__systemmodule_MOD_getconstrainfield_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1513 
+0x4ffff0778140
+__atom2procmodule_MOD_getlocalnumatoms0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:137 
+0x4ffff0778410
+__atom2procmodule_MOD_initatom2proc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:43 
+0x4ffff0801458
+__systemsymmetrymodule_MOD_initsystemsymmetry /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:57 
+0x4ffff0980a3c
+__corestatesmodule_MOD_calcorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:1626 
+0x4ffff077b628
+__polyhedramodule_MOD_getwignerseitzradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2319 
+0x4ffff07f6944
+madewd /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:844 
+0x4ffff0733304
+__scfdatamodule_MOD_isexchangeparamneeded /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1312 
+0x4ffff084d798
+__potentialmodule_MOD_setsphpotr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:615 
+0x4ffff073931c
+__potentialtypemodule_MOD_isfullpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:193 
+0x4ffff07ef110
+__stepfunctionmodule_MOD_getstepfunction1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:746 
+0x4ffff07c4914
+__atommodule_MOD_getatomcorerad /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1961 
+0x4ffff096fed8
+inwhnk /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3519 
+0x4ffff06ca5d4
+__chemelementmodule_MOD_getzcor_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1751 
+0x4ffff07c7d64
+__atommodule_MOD_setlocalevec /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1087 
+0x4ffff07dd100
+calintegrationtor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3783 
+0x4ffff095b848
+__sinematrixzerosmodule_MOD_endsinematrixzeros /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:202 
+0x4ffff06bbf30
+mst2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/mst2.F90:1 
+0x4ffff087f660
+computeirrsol /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6331 
+0x4ffff06c72c8
+main /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/mst2.F90:4 
+0x4ffff0bbf4e8
+adjustenergy_r_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/adjustEnergy.F90:2 
+0x4ffff0731740
+__inputmodule_MOD_initinput /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:86 
+0x4ffff15c2384
+MPI_Type_size /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:2809 
+0x4ffff0a0a404
+__chargedistributionmodule_MOD_getinterstitialelectrondensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:717 
+0x4ffff077c214
+chkedge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2027 
+0x4ffff15c1214
+MPI_Allreduce /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1026 
+0x4ffff0732c20
+__scfdatamodule_MOD_ischargesymm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1526 
+0x4ffff07f4890
+__stepfunctionmodule_MOD_initstepfunction1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:284 
+0x4ffff073ee50
+__exchcorrfunctionalmodule_MOD_getexchcorrpot_s /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:606 
+0x4ffff0744b64
+__systemmodule_MOD_getlmaxkkr0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1782 
+0x4ffff0734b1c
+__scfdatamodule_MOD_iskkr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:808 
+0x4ffff0746f68
+__systemmodule_MOD_getatomposition_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1295 
+0x4ffff09ce95c
+__valencedensitymodule_MOD_getvalencemtmoment /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:799 
+0x4ffff0733e20
+__scfdatamodule_MOD_getsinglesitesolvertype /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1011 
+0x4ffff0a6a9d0
+__convergencecheckmodule_MOD_endconvergencecheck /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:80 
+0x4ffff070fa50
+__checkpointmodule_MOD_initcheckpoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:41 
+0x4ffff095dfa0
+__sinematrixzerosmodule_MOD_initsinematrixzeros /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:82 
+0x4ffff0b9c2cc
+setupmixrealarraylist_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupMixRealArrayList.F90:2 
+0x4ffff0780f3c
+geticp /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1623 
+0x4ffff0730030
+__inputmodule_MOD_readinputdata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:232 
+0x4ffff0736450
+__scfdatamodule_MOD_initscfdata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:209 
+0x4ffff077a740
+__polyhedramodule_MOD_getboxvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2479 
+0x4ffff0a64f6c
+__totalenergymodule_MOD_inittotalenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:62 
+0x4ffff09e2b88
+__chargedensitymodule_MOD_updatetotaldensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:3703 
+0x4ffff0866564
+genfactors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:93 
+0x4ffff084e6f4
+__potentialmodule_MOD_getsphpotr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:567 
+0x4ffff0bbe99c
+printscfresults_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/printScfResults.F90:2 
+0x4ffff0747144
+__systemmodule_MOD_getatomicnumber_all /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1281 
+0x4ffff0b203dc
+__multiscatteringdosmodule_MOD_setmsp_ef /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:118 
+0x4ffff073325c
+__scfdatamodule_MOD_issimplemixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1330 
+0x4ffff0744454
+__systemmodule_MOD_getlmaxmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1902 
+0x4ffff0a872e8
+__clustermatrixmodule_MOD_calclustermatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:667 
+0x4ffff0849310
+__potentialmodule_MOD_setpotef /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1659 
+0x4ffff073921c
+__potentialtypemodule_MOD_istestpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:216 
+0x4ffff07c7238
+__atommodule_MOD_getlocalatomicnumber /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1231 
+0x4ffff0b88d30
+zeroelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:709 
+0x4ffff072e9c4
+__inputmodule_MOD_getkeyvalue_str0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:751 
+0x4ffff0a55a20
+janake2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1369 
+0x4ffff0734918
+__scfdatamodule_MOD_isembeddedcluster /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:856 
+0x4ffff0b744cc
+calintegrateddos /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:1685 
+0x4ffff0777588
+__procmappingmodule_MOD_initprocmapping_1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:115 
+0x4ffff0a01710
+__chargedensitymodule_MOD_initchargedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:205 
+0x4ffff0777154
+__procmappingmodule_MOD_getenergyindex /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:271 
+0x4ffff0969e2c
+__corestatesmodule_MOD_getdeepcoree1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4514 
+0x4ffff0733d78
+__scfdatamodule_MOD_isssirregularsolon /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1024 
+0x4ffff07fb5ec
+__madelungmodule_MOD_initmadelung /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:83 
+0x4ffff07447dc
+__systemmodule_MOD_getlmaxrho0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1842 
+0x4ffff0733470
+__scfdatamodule_MOD_getpotentialtypeparam /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1272 
+0x4ffff0a6ead4
+getmixid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1249 
+0x4ffff07026bc
+__latticemodule_MOD_endlattice /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:141 
+0x4ffff0739db8
+__potentialtypemodule_MOD_initpotentialtype /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:30 
+0x4ffff09434b8
+__smatrixpolesmodule_MOD_endsmatrixpoles /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:247 
+0x4ffff07c6254
+__atommodule_MOD_gettruncpotlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1470 
+0x4ffff09f999c
+__chargedensitymodule_MOD_getsphmomentdensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1806 
+0x4ffff09b7cd4
+__constrainlocalmomentmodule_MOD_calconstrainlm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:181 
+0x4ffff07c6d18
+__atommodule_MOD_getlocalnumspecies /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1291 
+0x4ffff08471fc
+__potentialmodule_MOD_readpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1698 
+0x4ffff0963b7c
+__kreinmodule_MOD_setlloydq1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:137 
+0x4ffff08a21bc
+__sssolvermodule_MOD_solvesinglescattering /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1293 
+0x4ffff07449a0
+__systemmodule_MOD_getlmaxphi0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1812 
+0x4ffff06c947c
+__chemelementmodule_MOD_getnumcorestates_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1940 
+0x4ffff0b08fd4
+__mssolvermodule_MOD_endmssolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:502 
+0x4ffff092e388
+__singlescatteringdosmodule_MOD_setssp_generic /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SingleScatteringDOSModule.F90:66 
+0x4ffff0776ca4
+__procmappingmodule_MOD_isatomonmyproc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:434 
+0x4ffff09b3b3c
+v_plus_minus /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:826 
+0x4ffff07c8d10
+__atommodule_MOD_initatom /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:197 
+0x4ffff0735cc8
+__scfdatamodule_MOD_isrelativisticvalence /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:702 
+0x4ffff07c4ba4
+__atommodule_MOD_getmuffintinradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1927 
+0x4ffff0700508
+__defaultparammodule_MOD_getdefaultvalue_i0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:167 
+0x4ffff0a4a584
+__potentialgenerationmodule_MOD_endpotentialgeneration /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:744 
+0x4ffff0747210
+__systemmodule_MOD_getatomicnumber_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1254 
+0x4ffff07c69b8
+__atommodule_MOD_getlocalatomposition /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1322 
+0x4ffff0b911b8
+setuplizneighbor_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupLizNeighbor.F90:1 
+0x4ffff086e2ac
+__spinrotationmodule_MOD_initspinrotation /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:42 
+0x4ffff07c6088
+__atommodule_MOD_getmaxlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1519 
+0x4ffff096be58
+__corestatesmodule_MOD_getscd2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4287 
+0x4ffff06c9a44
+__chemelementmodule_MOD_getzval_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1877 
+0x4ffff0a64ba4
+__totalenergymodule_MOD_getenergyperatom /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:161 
+0x4ffff0714120
+readmomentdirectiondata_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/readMomentDirectionData.F90:23 
+0x4ffff0746e20
+__systemmodule_MOD_getatomposition_all /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1313 
+0x4ffff07bfa24
+__neighbormodule_MOD_initneighbor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:51 
+0x4ffff07c79b0
+__atommodule_MOD_getlocalevec /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1130 
+0x4ffff0735ef8
+__scfdatamodule_MOD_isnonrelativisticvalence /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:662 
+0x4ffff0a0aebc
+__chargedistributionmodule_MOD_updatechargedistribution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:358 
+0x4ffff073486c
+__scfdatamodule_MOD_iskkrcpasro /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:872 
+0x4ffff0733508
+__scfdatamodule_MOD_getdosrunid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1259 
+0x4ffff0732fb0
+__scfdatamodule_MOD_ischargemixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1402 
+0x4ffff07c5318
+__atommodule_MOD_getradialgriddata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1791 
+0x4ffff09af384
+__uniform3dgridmodule_MOD_isuniform3dgridinitialized /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Uniform3DGridModule.F90:122 
+0x4ffff072cb9c
+__inputmodule_MOD_getkeyvalue_real3 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1382 
+0x4ffff0963ae4
+__kreinmodule_MOD_islloydon /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:177 
+0x4ffff077b76c
+__polyhedramodule_MOD_getoutscrsphradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2299 
+0x4ffff095b7b0
+__sinematrixzerosmodule_MOD_issinematrixzerosinitialized /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:254 
+0x4ffff07c50a4
+__atommodule_MOD_getmixingparam4pot /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1834 
+0x4ffff07770bc
+__procmappingmodule_MOD_getnumredundantesonmyproc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:315 
+0x4ffff07437dc
+__systemmodule_MOD_updatesystem /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1932 
+0x4ffff09b38d0
+__constrainlocalmomentmodule_MOD_getfieldrms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:855 
+0x4ffff0a557e8
+zeropt /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1828 
+0x4ffff0830b34
+__radialgridmodule_MOD_getradialgridradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1359 
+0x4ffff07a0550
+__systemvolumemodule_MOD_getsystemvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:186 
+0x4ffff09c68c0
+__valencedensitymodule_MOD_getbandenergy_2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2009 
+0x4ffff096d86c
+__corestatesmodule_MOD_getcoredensityrmeshsize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4070 
+0x4ffff0969760
+__corestatesmodule_MOD_getsemicoree1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4567 
+0x4ffff07a409c
+__outputmodule_MOD_getdensityprintflag /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:476 
+0x4ffff0b9b5b0
+updatepotential_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/updatePotential.F90:1 
+0x4ffff15c0430
+MPI_Init /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:22 
+0x4ffff09cf738
+__valencedensitymodule_MOD_getvalencevpmoment /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:705 
+0x4ffff09b9f88
+__constrainlocalmomentmodule_MOD_initconstrainlm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:48 
+0x4ffff06c89a8
+__chemelementmodule_MOD_getcorestatel_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2100 
+0x4ffff0a775fc
+__mixingmodule_MOD_initmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:172 
+0x4ffff07a3308
+__outputmodule_MOD_getpotentialprintflag /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:553 
+0x4ffff07c6880
+__atommodule_MOD_getkkrlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1339 
+0x4ffff077a1a8
+__polyhedramodule_MOD_getplane /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2535 
+0x4ffff07c6390
+__atommodule_MOD_getpotlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1437 
+0x4ffff15c1c08
+MPI_Cart_create /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1939 
+0x4ffff07a05e8
+__systemvolumemodule_MOD_endsystemvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:165 
+0x4ffff0b7fc30
+__gfmethodmodule_MOD_calvalencestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:821 
+0x4ffff073ec08
+__exchcorrfunctionalmodule_MOD_getexchcorrpot_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:629 
+0x4ffff0a86934
+__forcemodule_MOD_initforce /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ForceModule.F90:26 
+0x4ffff0702868
+__latticemodule_MOD_initlatt0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:33 
+0x4ffff0777fc0
+__atom2procmodule_MOD_getlocalnumatoms1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:153 
+0x4ffff0a6c880
+setbroydenspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1334 
+0x4ffff0738ec0
+__potentialtypemodule_MOD_ismuffintinfullpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:314 
+0x4ffff070f2a4
+__checkpointmodule_MOD_isstoppoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:194 
+0x4ffff073a05c
+__exchcorrfunctionalmodule_MOD_isggafunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1576 
+0x4ffff0769d7c
+__contourmodule_MOD_endcontour /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:962 
+0x4ffff072d608
+__inputmodule_MOD_getkeyvalue_real0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1212 
+0x4ffff0967d1c
+__corestatesmodule_MOD_getsemicorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:5107 
+0x4ffff15c2fc4
+__wrap_zcopy_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:12 
+0x4ffff07f634c
+madsum /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:994 
+0x4ffff070f4b4
+__checkpointmodule_MOD_insertstoppoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:81 
+0x4ffff072da70
+__inputmodule_MOD_getkeyvalue_int2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1095 
+0x4ffff06d5990
+__publicparamdefinitionsmodule_MOD_checkparameter /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PublicParamDefinitionsModule.F90:96 
+0x4ffff0b4fe64
+addspincantstruct_r /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5029 
+0x4ffff072f128
+__inputmodule_MOD_iskeyexisting /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:679 
+0x4ffff072bcc4
+__inputmodule_MOD_getkeyindexvalue_int1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:2079 
+0x4ffff070105c
+genkbravais /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:279 
+0x4ffff07a4588
+__outputmodule_MOD_endoutput /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:360 
+0x4ffff0746c20
+__systemmodule_MOD_getmomentdirectionmixingparam /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1358 
+0x4ffff089a574
+precor4 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:2699 
+0x4ffff083fe44
+__potentialmodule_MOD_writepotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2515 
+0x4ffff07014cc
+callatticesystem /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:211 
+0x4ffff15c1b24
+MPI_Cart_coords /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1916 
+0x4ffff072c298
+__inputmodule_MOD_getkeyindexvalue_str1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1813 
+0x4ffff07ed044
+__stepfunctionmodule_MOD_getvolumeintegration0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:1036 
+0x4ffff15c18bc
+MPI_Comm_split /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1552 
+0x4ffff0745690
+__systemmodule_MOD_setatomenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1689 
+0x4ffff07b4594
+setuprecvtable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:851 
+0x4ffff079ed60
+__polyhedramodule_MOD_initpolyhedra /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:136 
+0x4ffff07a038c
+__systemvolumemodule_MOD_getatomicvpvolume_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:251 
+0x4ffff086e040
+__spinrotationmodule_MOD_endspinrotation /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:69 
+0x4ffff0744328
+__systemmodule_MOD_getradicalplaneratio /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1915 
+0x4ffff06e7450
+__matrixblockinversionmodule_MOD_invertmatrixblock /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:314 
+0x4ffff0a6aa5c
+__convergencecheckmodule_MOD_initconvergencecheck /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:29 
+0x4ffff08493a0
+__potentialmodule_MOD_getpotef /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1646 
+0x4ffff0747a88
+__systemmodule_MOD_getalloyelementcontent /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1098 
+0x4ffff09e8774
+__chargedensitymodule_MOD_constructchargedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:2375 
+0x4ffff0777804
+__atom2procmodule_MOD_getglobalindex1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:246 
+0x4ffff073a398
+ldafunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1318 
+0x4ffff0700110
+__defaultparammodule_MOD_getdefaultvalue_r0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:273 
+0x4ffff0739658
+__potentialtypemodule_MOD_ismuffintinpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:127 
+0x4ffff079c7ec
+__polyhedramodule_MOD_genpoly2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:318 
+0x4ffff0747f28
+__systemmodule_MOD_getnumalloyelements /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1045 
+0x4ffff07c12f0
+__sendrecvtmatmodule_MOD_getnumnonlocalneighbors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:196 
+0x4ffff082aa48
+__ldacorrectionmodule_MOD_islcn_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:272 
+0x4ffff073956c
+__potentialtypemodule_MOD_isasapotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:149 
+0x4ffff077978c
+__polyhedramodule_MOD_isexternalpoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2601 
+0x4ffff0747c84
+__systemmodule_MOD_getalloyelementname /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1076 
+0x4ffff0746d88
+__systemmodule_MOD_getscalingfactor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1327 
+0x4ffff07bd73c
+__neighbormodule_MOD_endneighbor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:96 
+0x4ffff0777c08
+__atom2procmodule_MOD_getlocalindex /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:208 
+0x4ffff0afe7e4
+genfactors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:1669 
+0x4ffff0744a38
+__systemmodule_MOD_getlmaxkkr1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1795 
+0x4ffff08395b0
+setpotcompflag /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2949 
+0x4ffff07b8cec
+__neighbormodule_MOD_setneighbor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:197 
+0x4ffff0bae614
+putpotg_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/putpotg.F90:3 
+0x4ffff0748618
+__systemmodule_MOD_setsiteliz /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:906 
+0x4ffff07b66b0
+__neighbormodule_MOD_getnumreceives /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:732 
+0x4ffff07b8b5c
+__neighbormodule_MOD_getnumneighbors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:345 
+0x4ffff07c0ff8
+__sendrecvtmatmodule_MOD_getnumprocwisesends /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:277 
+0x4ffff07bd5b0
+__neighbormodule_MOD_getneighbor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:157 
+0x4ffff07c6608
+__atommodule_MOD_getphilmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1371 
+0x4ffff07faa5c
+calscalingfactor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:304 
+0x4ffff07f82b0
+genlattice /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:579 
+0x4ffff07fe5cc
+__systemsymmetrymodule_MOD_getsymmetryflags0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:420 
+0x4ffff07b4414
+__neighbormodule_MOD_getsendtable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:904 
+0x4ffff07fe874
+calmadsymmetryflags /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:287 
+0x4ffff077b8b0
+__polyhedramodule_MOD_getinscrsphradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2279 
+0x4ffff0748eb0
+__systemmodule_MOD_initsystem /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:190 
+0x4ffff08312fc
+__radialgridmodule_MOD_getnumrmesh /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1272 
+0x4ffff082ac04
+__ldacorrectionmodule_MOD_islcn /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:258 
+0x4ffff0a86804
+__forcemodule_MOD_endforce /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ForceModule.F90:60 
+0x4ffff09737e0
+corslv /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:2492 
+0x4ffff073b874
+calexchcorr_s /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1189 
+0x4ffff0842c84
+readformatteddata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1872 
+0x4ffff07c6df8
+__atommodule_MOD_getlocalatomnickname /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1271 
+0x4ffff09974dc
+readformatteddata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:642 
+0x4ffff0733058
+__scfdatamodule_MOD_ispotentialmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1384 
+0x4ffff0734a70
+__scfdatamodule_MOD_islsms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:824 
+0x4ffff0b90b00
+aliasarray4_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:373 
+0x4ffff0733768
+__scfdatamodule_MOD_isefiterateon /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1136 
+0x4ffff0963c38
+__kreinmodule_MOD_setlloydstatus /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:124 
+0x4ffff0b91048
+aliasarray2_r /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:261 
+0x4ffff078c6e4
+setuppolyhedron /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:614 
+0x4ffff0a35cc0
+calzeropotential_mt /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:2314 
+0x4ffff07c5520
+__atommodule_MOD_getopff0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1658 
+0x4ffff0732b88
+__scfdatamodule_MOD_getadaptiveintegrationmethod /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1544 
+0x4ffff0777ee8
+__atom2procmodule_MOD_getmaxlocalnumatoms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:172 
+0x4ffff06e2350
+__adaptintegrationmodule_MOD_initadaptintegration /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AdaptIntegrationModule.F90:35 
+0x4ffff0941e4c
+__smatrixpolesmodule_MOD_issmatrixpolesinitialized /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:329 
+0x4ffff073b470
+calexchcorr_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1251 
+0x4ffff09cd110
+__valencedensitymodule_MOD_getsphrho_is /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:950 
+0x4ffff094651c
+__smatrixpolesmodule_MOD_initsmatrixpoles /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:110 
+0x4ffff0747e90
+__systemmodule_MOD_getalloytablesize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1063 
+0x4ffff0733ca8
+__scfdatamodule_MOD_isfittedchargeden /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1042 
+0x4ffff0830f1c
+__radialgridmodule_MOD_getrmesh /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1332 
+0x4ffff07a4714
+__outputmodule_MOD_initoutput /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:82 
+0x4ffff09c7f40
+__valencedensitymodule_MOD_getvmd3 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1745 
+0x4ffff084fdd0
+__potentialmodule_MOD_initpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:131 
+0x4ffff0a07720
+setupchargelist /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:904 
+0x4ffff0771f98
+__procmappingmodule_MOD_createparallelization /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:469 
+0x4ffff07c4f68
+__atommodule_MOD_getmixingparam4charge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1853 
+0x4ffff0739768
+__potentialtypemodule_MOD_issphericalpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:92 
+0x4ffff09723a4
+deepst /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:2811 
+0x4ffff0a74768
+__mixingmodule_MOD_setbroydenmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:560 
+0x4ffff0865a08
+__rspacestrconstmodule_MOD_initrspacestrconst /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:128 
+0x4ffff0a0adb0
+__chargedistributionmodule_MOD_getglobaltableline /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:568 
+0x4ffff07c15d4
+__sendrecvtmatmodule_MOD_initsendrecvtmat /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:42 
+0x4ffff09cc058
+__valencedensitymodule_MOD_getvalencesphericalmomentdensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1118 
+0x4ffff07b65d8
+__neighbormodule_MOD_getmaxreceives /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:754 
+0x4ffff07c5b04
+__atommodule_MOD_getipfn2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1562 
+0x4ffff0a0cd48
+__chargedistributionmodule_MOD_endchargedistribution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:327 
+0x4ffff0839dd4
+writeunformatteddata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2778 
+0x4ffff07fa888
+__madelungmodule_MOD_getmadelungmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:394 
+0x4ffff0733104
+__scfdatamodule_MOD_isbroydenmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1366 
+0x4ffff0733b80
+__scfdatamodule_MOD_ischargecorr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1060 
+0x4ffff07317e0
+__scfdatamodule_MOD_getmixingparamforfermienergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1730 
+0x4ffff09b57d4
+set_b_basis /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:509 
+0x4ffff06c9280
+__chemelementmodule_MOD_getcorestateindex /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2003 
+0x4ffff07c6744
+__atommodule_MOD_getstepfunclmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1355 
+0x4ffff0a49de0
+__potentialgenerationmodule_MOD_getvdif /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:890 
+0x4ffff07c47d0
+__atommodule_MOD_setatomcorerad /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1978 
+0x4ffff0b95c80
+buildsendtable_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/buildSendTable.F90:2 
+0x4ffff086d2cc
+__spinrotationmodule_MOD_calspinrotation /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:83 
+0x4ffff07b3fc8
+__neighbormodule_MOD_getrecvtable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:968 
+0x4ffff08b3860
+__sssolvermodule_MOD_initsssolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:322 
+0x4ffff06ca00c
+__chemelementmodule_MOD_getzsem_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1814 
+0x4ffff0b0ccb4
+__mssolvermodule_MOD_initmssolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:188 
+0x4ffff0739480
+__potentialtypemodule_MOD_ismuffintinasapotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:171 
+0x4ffff0731528
+__inputmodule_MOD_endinput /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:105 
+0x4ffff0b4b1d0
+caldensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5772 
+0x4ffff07454d0
+__systemmodule_MOD_getadditionalelectrons /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1727 
+0x4ffff08b0410
+__sssolvermodule_MOD_endsssolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:971 
+0x4ffff096cdac
+__corestatesmodule_MOD_getdcd2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4148 
+0x4ffff099c8bc
+__corestatesmodule_MOD_initcorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:204 
+0x4ffff09cc9fc
+__valencedensitymodule_MOD_getvalencesphericalelectrondensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1075 
+0x4ffff09c4e20
+__valencedensitymodule_MOD_getexchangeenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2171 
+0x4ffff0a86fb4
+__clustermatrixmodule_MOD_getkau /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:1265 
+0x4ffff0a00170
+__chargedensitymodule_MOD_endchargedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1152 
+0x4ffff0a3651c
+calsphpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:2014 
+0x4ffff0a38dc0
+constructnewpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:1978 
+0x4ffff0830080
+__radialgridmodule_MOD_getradialgridpoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1405 
+0x4ffff07462f8
+__systemmodule_MOD_setexchangefielddirection /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1483 
+0x4ffff09ce8c4
+__valencedensitymodule_MOD_getfermienergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:863 
+0x4ffff09ffb30
+__chargedensitymodule_MOD_getsphchargedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1215 
+0x4ffff0a4a03c
+__potentialgenerationmodule_MOD_getsphpotr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:837 
+0x4ffff074873c
+__systemmodule_MOD_getnumatoms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:893 
+0x4ffff0849438
+__potentialmodule_MOD_getvdif /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1632 
+0x4ffff09cfd1c
+__valencedensitymodule_MOD_getvalencevpcharge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:621 
+0x4ffff0849504
+__potentialmodule_MOD_setvdif /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1617 
+0x4ffff0a49ad0
+__potentialgenerationmodule_MOD_setvdif /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:938 
+0x4ffff09cecfc
+__valencedensitymodule_MOD_setvalencevpmomentsize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:769 
+0x4ffff0700c9c
+__defaultparammodule_MOD_enddefaultparam /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:46 
+0x4ffff073a2cc
+__exchcorrfunctionalmodule_MOD_ishartreeapproximation /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1540 
+0x4ffff07e03e4
+calsig /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3124 
+0x4ffff072b6e4
+__inputmodule_MOD_getkeyindexvalue_real1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:2304 
+0x4ffff0771c04
+setupprocdim /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:929 
+0x4ffff0b89e68
+cleanelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:672 
+0x4ffff09c3468
+__valencedensitymodule_MOD_updatevalencecharge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2194 
+0x4ffff06e21c4
+__adaptintegrationmodule_MOD_endadaptintegration /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AdaptIntegrationModule.F90:69 
+0x4ffff0777a44
+__atom2procmodule_MOD_getglobalindex0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:227 
+0x4ffff079dfb0
+__polyhedramodule_MOD_endpolyhedra /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:192 
+0x4ffff07c0c90
+__sendrecvtmatmodule_MOD_getprocwisesourceprocs /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:335 
+0x4ffff07c0dd8
+__sendrecvtmatmodule_MOD_getprocwisetargetprocs /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:313 
+0x4ffff07c0f20
+__sendrecvtmatmodule_MOD_getnumprocwisereceives /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:295 
+0x4ffff07c10d0
+__sendrecvtmatmodule_MOD_getnonlocalneighbors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:254 
+0x4ffff0a8c1b8
+allocateexchsssmat /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:357 
+0x4ffff06e8ca8
+setblockalgorithm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:244 
+0x4ffff06e295c
+find_sym /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:1160 
+0x4ffff0866920
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff15c0f3c
+MPI_Iprobe /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:911 
+0x4ffff088698c
+__sssolvermodule_MOD_getscatteringmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5886 
+0x4ffff15c312c
+__wrap_zgetrs_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:26 
+0x4ffff15c3070
+__wrap_zgetrf_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:18 
+0x4ffff0a91d40
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff0864ae0
+__rspacestrconstmodule_MOD_getstrconstmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:193 
+0x4ffff0a8aef4
+exchangesssmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:443 
+0x4ffff06e2628
+gettarget_3c /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:1398 
+0x4ffff087d1b8
+solveradeqn4irr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6485 
+0x4ffff08ac4e4
+allocateirrspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1190 
+0x4ffff07e1c70
+intphi /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2952 
+0x4ffff07e2d8c
+cleanup /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2876 
+0x4ffff0b4fadc
+addspincantstruct_c /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5061 
+0x4ffff0883ec4
+__sssolvermodule_MOD_getfreeelectrondos /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6155 
+0x4ffff096d944
+richnk /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4006 
+0x4ffff0971a5c
+invals /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3111 
+0x4ffff15c0dc4
+MPI_Wait /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:718 
+0x4ffff15c06cc
+MPI_Isend /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:313 
+0x4ffff0865750
+__rspacestrconstmodule_MOD_endrspacestrconst /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:166 
+0x4ffff0a8bed4
+cleanexchsssmat /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:421 
+0x4ffff07c80a8
+__atommodule_MOD_setlocalmoment_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1018 
+0x4ffff07333d8
+__scfdatamodule_MOD_getcantedmomenttorquefactor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1285 
+0x4ffff07fe2e4
+__systemsymmetrymodule_MOD_getsymmetryflags1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:443 
+0x4ffff0b206e4
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff0b08ed0
+__mssolvermodule_MOD_getmsgreenfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:661 
+0x4ffff15c2ed0
+__wrap_zgemm_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:7 
+0x4ffff08866dc
+__sssolvermodule_MOD_getregsolution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5962 
+0x4ffff0886488
+__sssolvermodule_MOD_getsolutionrmeshsize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6026 
+0x4ffff0b08a0c
+computemstmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:713 
+0x4ffff0877984
+__sssolvermodule_MOD_computegf0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6829 
+0x4ffff07eaa54
+__stepfunctionmodule_MOD_getvolumeintegration1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:1256 
+0x4ffff0869a78
+__spinrotationmodule_MOD_transformdm1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:375 
+0x4ffff0b58e50
+sumesval_r /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4568 
+0x4ffff0b5018c
+addelectrostruct_c /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4933 
+0x4ffff0769a34
+__contourmodule_MOD_getewall /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1102 
+0x4ffff076986c
+__contourmodule_MOD_geteall /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1148 
+0x4ffff076a2ac
+setupgaugrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:724 
+0x4ffff06e9d9c
+__matrixblockinversionmodule_MOD_initmatrixblockinv /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:54 
+0x4ffff089c02c
+solveradeqn4reg /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:2244 
+0x4ffff084c3f4
+__potentialmodule_MOD_getpoten_l1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:794 
+0x4ffff084d510
+__potentialmodule_MOD_ispotcomponentzero /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:672 
+0x4ffff08afc44
+initglobalvariables /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1123 
+0x4ffff096efc0
+inws /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3608 
+0x4ffff07f5110
+calgammafunc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:1171 
+0x4ffff07e3f4c
+stepyll /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2586 
+0x4ffff0779ac4
+__polyhedramodule_MOD_getedge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2579 
+0x4ffff077a4b8
+__polyhedramodule_MOD_getnumedges /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2516 
+0x4ffff07c1218
+__sendrecvtmatmodule_MOD_getmaxneighbors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:214 
+0x4ffff077c53c
+chkpnt /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1984 
+0x4ffff0787768
+chkbnd /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1513 
+0x4ffff0787e5c
+filter_edge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1363 
+0x4ffff06c80a8
+__chemelementmodule_MOD_getcorestatesymbol_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2240 
+0x4ffff06c853c
+__chemelementmodule_MOD_getcorestatekappa_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2170 
+0x4ffff06c8e14
+__chemelementmodule_MOD_getcorestaten_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2030 
+0x4ffff073f158
+__exchcorrfunctionalmodule_MOD_getexchcorrenden_s /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:564 
+0x4ffff06e6698
+zblock_lu1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:599 
+0x4ffff096c384
+__corestatesmodule_MOD_getscd0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4238 
+0x4ffff073efb4
+__exchcorrfunctionalmodule_MOD_getexchcorrenden_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:583 
+0x4ffff088b798
+__sssolvermodule_MOD_getgreenfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5072 
+0x4ffff0b0dc74
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff0a0acb4
+__chargedistributionmodule_MOD_getglobalonsiteelectrontable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:585 
+0x4ffff0a0abb8
+__chargedistributionmodule_MOD_getglobalmtsphereelectrontable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:597 
+0x4ffff07a04b8
+__systemvolumemodule_MOD_gettotalinterstitialvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:238 
+0x4ffff0732d8c
+__scfdatamodule_MOD_isinterstitialelectronpolarized /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1488 
+0x4ffff0bad220
+setupicfmsgbuf_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/putpotg.F90:422 
+0x4ffff073c3a0
+__exchcorrfunctionalmodule_MOD_calsphexchangecorrelation_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:765 
+0x4ffff0a0a8c4
+__chargedistributionmodule_MOD_getglobalmtsphereelectrontableold /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:633 
+0x4ffff15c07e0
+MPI_Recv /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:367 
+0x4ffff0a0a36c
+__chargedistributionmodule_MOD_getinterstitialelectrondensityold /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:729 
+0x4ffff08ac06c
+deallocateirrspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1248 
+0x4ffff0a91b7c
+aliasarray3_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357 
+0x4ffff0a8d4dc
+__clustermatrixmodule_MOD_endclustermatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:295 
+0x4ffff09c0f7c
+__valencedensitymodule_MOD_updatefermienergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2289 
+0x4ffff09bb084
+__valencedensitymodule_MOD_updatevalenceevec /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2858 
+0x4ffff09bd18c
+__valencedensitymodule_MOD_updatevalencedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2468 
+0x4ffff072ae88
+averagecfuncxproc_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/averageAcrossProcesses.F90:28 
+0x4ffff0b5383c
+addelectrostruct_r /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4837 
+0x4ffff0777280
+__procmappingmodule_MOD_getnumesonmyproc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:257 
+0x4ffff096d2d8
+__corestatesmodule_MOD_getdcd0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4099 
+0x4ffff0b4d6f4
+mufind /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5270 
+0x4ffff0b5b080
+calelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4278 
+0x4ffff0b1c01c
+__multiscatteringdosmodule_MOD_getmscatteringdos /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:133 
+0x4ffff0b20480
+__multiscatteringdosmodule_MOD_setmsp_specific /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:96 
+0x4ffff0b04fbc
+__mssolvermodule_MOD_computemsgreenfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:793 
+0x4ffff0a6b640
+setworkingspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1363 
+0x4ffff0bbf640
+adjustenergy_c_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/adjustEnergy.F90:36 
+0x4ffff0a0a9c0
+__chargedistributionmodule_MOD_getglobalonsiteelectrontableold /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:621 
+0x4ffff0b5a7a8
+transformelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4497 
+0x4ffff0b5e29c
+calmultiplescatteringidos /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:3990 
+0x4ffff092e22c
+__singlescatteringdosmodule_MOD_setssp_ef /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SingleScatteringDOSModule.F90:104 
+0x4ffff076ecf4
+__contourmodule_MOD_setupcontour /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:367 
+0x4ffff0a8dd20
+__clustermatrixmodule_MOD_initclustermatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:118 
+0x4ffff0b09ffc
+initparameters /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:385 
+0x4ffff08c6718
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff07335a0
+__scfdatamodule_MOD_getlmaxsolution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1246 
+0x4ffff08afba4
+getkmaxintern /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1174 
+0x4ffff07e6fd8
+__stepfunctionmodule_MOD_getnumgaussrs /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2399 
+0x4ffff0849160
+__potentialmodule_MOD_gettruncpotlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1685 
+0x4ffff07336d0
+__scfdatamodule_MOD_getsinglesitesolvermethod /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1220 
+0x4ffff0849238
+__potentialmodule_MOD_getpotlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1672 
+0x4ffff086a2b8
+u_sigma_u /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:337 
+0x4ffff09707dc
+semcst /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3233 
+0x4ffff07dbf98
+setupintwkspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3875 
+0x4ffff0a54a04
+getu0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1891 
+0x4ffff0a10e04
+aliasarray2_r /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:261 
+0x4ffff08311b8
+__radialgridmodule_MOD_getmaxnumrmesh /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1296 
+0x4ffff0745600
+__systemmodule_MOD_setlatticeconstant /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1703 
+0x4ffff07482bc
+__systemmodule_MOD_getatomtype_1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:995 
+0x4ffff07e2f8c
+caltnode /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2755 
+0x4ffff07eeda8
+__stepfunctionmodule_MOD_getstepfunction3 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:825 
+0x4ffff072a78c
+lattice_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/lattice.F90:61 
+0x4ffff072a3d0
+numlat_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/lattice.F90:2 
+0x4ffff07e19e8
+sigma /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3092 
+0x4ffff0868d84
+__spinrotationmodule_MOD_transformdm3 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:442 
+0x4ffff077a5fc
+__polyhedramodule_MOD_getnumcorners /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2497 
+0x4ffff077c0d4
+__polyhedramodule_MOD_getnumplanes /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2130 
+0x4ffff07f70c8
+getkncut /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:762 
+0x4ffff07e55dc
+computecriticalpoints /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2483 
+0x4ffff096dfd4
+outws /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3753 
+0x4ffff0b0dab0
+aliasarray3_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357 
+0x4ffff06cb048
+initchemelement /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:122 
+0x4ffff077c7dc
+getparea /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1806 
+0x4ffff0788898
+setupcellbound /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1047 
+0x4ffff06ffc50
+__defaultparammodule_MOD_getdefaultvalue_r1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:323 
+0x4ffff06ee308
+loaddefaultkeyvalues /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:489 
+0x4ffff15c1e80
+MPI_Wtime /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:2432 
+0x4ffff0748924
+__systemmodule_MOD_endsystem /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:837 
+0x4ffff09c2b60
+__valencedensitymodule_MOD_updatevalenceenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2250 
+0x4ffff07ff9d4
+caltruncsymmetryflags /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:211 
+0x4ffff0778244
+__atom2procmodule_MOD_endatom2proc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:122 
+0x4ffff07c8520
+__atommodule_MOD_endatom /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:987 
+0x4ffff07c6120
+__atommodule_MOD_getlizlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1503 
+0x4ffff070f894
+__checkpointmodule_MOD_endcheckpoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:52 
+0x4ffff0746660
+__systemmodule_MOD_setmomentdirection /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1416 
+0x4ffff0b4c478
+averageelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5701 
+0x4ffff0b8a4d4
+setupelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:596 
+0x4ffff07f7844
+getrscut /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:677 
+0x4ffff0a70678
+calbroydenmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:648 
+0x4ffff0a58c80
+computesphericaltotalenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:925 
+0x4ffff084f004
+__potentialmodule_MOD_endpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:533 
+0x4ffff072dfb4
+__inputmodule_MOD_getkeyvalue_int0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:979 
+0x4ffff07fb418
+__madelungmodule_MOD_endmadelung /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:287 
+0x4ffff08c6554
+aliasarray3_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357 
+0x4ffff0831484
+__radialgridmodule_MOD_getgrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1249 
+0x4ffff07c58fc
+__atommodule_MOD_getipff1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1593 
+0x4ffff08abf3c
+isirrsoltypevalid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1272 
+0x4ffff09d3064
+__valencedensitymodule_MOD_endvalencedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:433 
+0x4ffff07a43d8
+__outputmodule_MOD_isoutputatombased /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:406 
+0x4ffff0a64d3c
+__totalenergymodule_MOD_endtotalenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:134 
+0x4ffff0a64350
+__totalenergymodule_MOD_computeenergyfunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:223 
+0x4ffff0745ea8
+__systemmodule_MOD_setconstrainfield /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1547 
+0x4ffff15c0514
+MPI_Finalize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:79 
+0x4ffff09694c8
+__corestatesmodule_MOD_getcorevpc1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4618 
+0x4ffff09b9d64
+__constrainlocalmomentmodule_MOD_endconstrainlm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:122 
+0x4ffff07c5a5c
+__atommodule_MOD_getipff0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1580 
+0x4ffff07c13c8
+__sendrecvtmatmodule_MOD_endsendrecvtmat /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:150 
+0x4ffff09ca2d8
+__valencedensitymodule_MOD_getved2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1466 
+0x4ffff0779e94
+__polyhedramodule_MOD_getcorner /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2557 
+0x4ffff07b5524
+__neighbormodule_MOD_setsendtable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:792 
+0x4ffff0742f30
+__systemmodule_MOD_writemomentdirectiondata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:2020 
+0x4ffff07c77a0
+__atommodule_MOD_updatelocalexchangefielddir /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1173 
+0x4ffff0ba02e8
+updatemixrealvalues_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/updateMixRealValues.F90:2 
+0x4ffff09cfad8
+__valencedensitymodule_MOD_setvalencevpcharge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:642 
+0x4ffff0965a80
+updateglobalcorestatestable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:5171 
+0x4ffff07e2ac8
+intpl0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2904 
+0x4ffff07c7638
+__atommodule_MOD_setlocalconstrainfield /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1197 
+0x4ffff15c1754
+MPI_Comm_free /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1432 
+0x4ffff0b90d14
+aliasarray2_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341 
+0x4ffff0732ccc
+__scfdatamodule_MOD_isldacorrectionneeded /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1506 
+0x4ffff0b8c9b8
+__gfmethodmodule_MOD_initgfmethod /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:173 
+0x4ffff07469c8
+__systemmodule_MOD_getmomentdirection_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1379 
+0x4ffff0a39454
+__potentialgenerationmodule_MOD_computenewpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:1215 
+0x4ffff086c3b4
+__spinrotationmodule_MOD_rotateltog /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:126 
+0x4ffff0700900
+__defaultparammodule_MOD_getdefaultvalue_s0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:56 
+0x4ffff070fadc
+readpositiondata_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/readPositionData.F90:20 
+0x4ffff0963cdc
+__kreinmodule_MOD_endkrein /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:100 
+0x4ffff09b3dbc
+__constrainlocalmomentmodule_MOD_updateconstrainlm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:602 
+0x4ffff15c13c8
+MPI_Bcast /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1132 
+0x4ffff07c7438
+__atommodule_MOD_getlocalconstrainfield /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1214 
+0x4ffff077a844
+__polyhedramodule_MOD_getinscrsphvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2457 
+0x4ffff0b9bfcc
+setupmixingscheme_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupMixingScheme.F90:2 
+0x4ffff0732ed0
+__scfdatamodule_MOD_islloyd /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1438 
+0x4ffff0a4bd00
+__potentialgenerationmodule_MOD_initpotentialgeneration /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:207 
+0x4ffff0700db8
+__defaultparammodule_MOD_initdefaultparam /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:27 
+0x4ffff08350b8
+__radialgridmodule_MOD_initradialgrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:91 
+0x4ffff073e538
+__exchcorrfunctionalmodule_MOD_calsphexchangecorrelation_s /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:654 
+0x4ffff0a0d2a8
+__chargedistributionmodule_MOD_initchargedistribution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:102 
+0x4ffff0742b64
+__systemmodule_MOD_resetsystemmovie /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:2204 
+0x4ffff0a0aabc
+__chargedistributionmodule_MOD_getglobalvpcellelectrontable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:609 
+0x4ffff09d3d60
+__valencedensitymodule_MOD_initvalencedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:159 
+0x4ffff07459d8
+__systemmodule_MOD_setrmsinfo /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1643 
+0x4ffff07ef3f4
+__stepfunctionmodule_MOD_endstepfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:644 
+0x4ffff0834da8
+__radialgridmodule_MOD_endradialgrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:123 
+0x4ffff07b6508
+__neighbormodule_MOD_setmaxreceives /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:773 
+0x4ffff15c1314
+MPI_Barrier /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1106 
+0x4ffff0736100
+__scfdatamodule_MOD_isfrozencore /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:601 
+0x4ffff07c6bd0
+__atommodule_MOD_getlocalspeciescontent /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1307 
+0x4ffff0999138
+__corestatesmodule_MOD_readcorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:537 
+0x4ffff0a65e34
+__convergencecheckmodule_MOD_checkconvergence /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:91 
+0x4ffff0739d28
+__potentialtypemodule_MOD_endpotentialtype /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:48 
+0x4ffff077a9b0
+__polyhedramodule_MOD_getvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2437 
+0x4ffff0b20560
+__multiscatteringdosmodule_MOD_setmsp_generic /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:65 
+0x4ffff07a0764
+__systemvolumemodule_MOD_initsystemvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:44 
+0x4ffff0747920
+__systemmodule_MOD_getnumvacancies /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1134 
+0x4ffff09954e0
+__corestatesmodule_MOD_endcorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:957 
+0x4ffff07331b0
+__scfdatamodule_MOD_isdgamixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1348 
+0x4ffff07c64cc
+__atommodule_MOD_getrholmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1404 
+0x4ffff073435c
+__scfdatamodule_MOD_isreademesh /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:959 
+0x4ffff0736010
+__scfdatamodule_MOD_isnonrelativisticcore /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:642 
+0x4ffff0800470
+__systemsymmetrymodule_MOD_calsymmetryflags /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:126 
+0x4ffff06e96f0
+__matrixblockinversionmodule_MOD_endmatrixblockinv /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:214 
+0x4ffff082a504
+__ldacorrectionmodule_MOD_islcn_al /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:292 
+0x4ffff0777d78
+__atom2procmodule_MOD_getatom2procingroup /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:189 
+0x4ffff07c4cf0
+__atommodule_MOD_getmixingparam4evec /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1891 
+0x4ffff0733638
+__scfdatamodule_MOD_getlmaxpotsolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1233 
+0x4ffff06caa48
+__chemelementmodule_MOD_getztot /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1706 
+0x4ffff07349c4
+__scfdatamodule_MOD_iskkrcpa /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:840 
+0x4ffff073f230
+__exchcorrfunctionalmodule_MOD_endexchcorrfunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:513 
+0x4ffff0734728
+__scfdatamodule_MOD_isscreenkkr_lsms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:901 
+0x4ffff07c4a60
+__atommodule_MOD_setmuffintinradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1944 
+0x4ffff07f000c
+setupstepfunction /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:438 
+0x4ffff074779c
+__systemmodule_MOD_getbravaislattice /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1173 
+0x4ffff07a4300
+__outputmodule_MOD_getstandardoutputlevel_0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:426 
+0x4ffff0b8beb4
+__gfmethodmodule_MOD_endgfmethod /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:520 
+0x4ffff0a774bc
+__mixingmodule_MOD_mixvalues /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:250 
+0x4ffff0a007a8
+getsizeof /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1091 
+0x4ffff0777318
+__procmappingmodule_MOD_endprocmapping /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:162 
+0x4ffff08011c8
+__systemsymmetrymodule_MOD_endsystemsymmetry /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:104 
+0x4ffff06c98f0
+__chemelementmodule_MOD_getzval_n /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1918 
+0x4ffff073f658
+__exchcorrfunctionalmodule_MOD_initexchcorrfunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:108 
+0x4ffff086aa18
+__spinrotationmodule_MOD_rotategtol /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:214 
+0x4ffff0769c00
+__contourmodule_MOD_getnes /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1042 
+0x4ffff076f204
+__contourmodule_MOD_initcontour1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:244 
+0x4ffff0832624
+__radialgridmodule_MOD_genradialgrid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:832 
+0x4ffff07460d8
+__systemmodule_MOD_getconstrainfield_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1513 
+0x4ffff0778140
+__atom2procmodule_MOD_getlocalnumatoms0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:137 
+0x4ffff0778410
+__atom2procmodule_MOD_initatom2proc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:43 
+0x4ffff0801458
+__systemsymmetrymodule_MOD_initsystemsymmetry /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:57 
+0x4ffff0980a3c
+__corestatesmodule_MOD_calcorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:1626 
+0x4ffff077b628
+__polyhedramodule_MOD_getwignerseitzradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2319 
+0x4ffff07f6944
+madewd /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:844 
+0x4ffff0733304
+__scfdatamodule_MOD_isexchangeparamneeded /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1312 
+0x4ffff084d798
+__potentialmodule_MOD_setsphpotr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:615 
+0x4ffff073931c
+__potentialtypemodule_MOD_isfullpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:193 
+0x4ffff07ef110
+__stepfunctionmodule_MOD_getstepfunction1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:746 
+0x4ffff07c4914
+__atommodule_MOD_getatomcorerad /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1961 
+0x4ffff096fed8
+inwhnk /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3519 
+0x4ffff06ca5d4
+__chemelementmodule_MOD_getzcor_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1751 
+0x4ffff07c7d64
+__atommodule_MOD_setlocalevec /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1087 
+0x4ffff07dd100
+calintegrationtor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3783 
+0x4ffff095b848
+__sinematrixzerosmodule_MOD_endsinematrixzeros /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:202 
+0x4ffff06bbf30
+mst2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/mst2.F90:1 
+0x4ffff087f660
+computeirrsol /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6331 
+0x4ffff06c72c8
+main /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/mst2.F90:4 
+0x4ffff0bbf4e8
+adjustenergy_r_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/adjustEnergy.F90:2 
+0x4ffff0731740
+__inputmodule_MOD_initinput /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:86 
+0x4ffff15c2384
+MPI_Type_size /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:2809 
+0x4ffff0a0a404
+__chargedistributionmodule_MOD_getinterstitialelectrondensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:717 
+0x4ffff077c214
+chkedge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2027 
+0x4ffff15c1214
+MPI_Allreduce /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1026 
+0x4ffff0732c20
+__scfdatamodule_MOD_ischargesymm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1526 
+0x4ffff07f4890
+__stepfunctionmodule_MOD_initstepfunction1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:284 
+0x4ffff073ee50
+__exchcorrfunctionalmodule_MOD_getexchcorrpot_s /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:606 
+0x4ffff0744b64
+__systemmodule_MOD_getlmaxkkr0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1782 
+0x4ffff0734b1c
+__scfdatamodule_MOD_iskkr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:808 
+0x4ffff0746f68
+__systemmodule_MOD_getatomposition_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1295 
+0x4ffff09ce95c
+__valencedensitymodule_MOD_getvalencemtmoment /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:799 
+0x4ffff0733e20
+__scfdatamodule_MOD_getsinglesitesolvertype /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1011 
+0x4ffff0a6a9d0
+__convergencecheckmodule_MOD_endconvergencecheck /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:80 
+0x4ffff070fa50
+__checkpointmodule_MOD_initcheckpoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:41 
+0x4ffff095dfa0
+__sinematrixzerosmodule_MOD_initsinematrixzeros /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:82 
+0x4ffff0b9c2cc
+setupmixrealarraylist_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupMixRealArrayList.F90:2 
+0x4ffff0780f3c
+geticp /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1623 
+0x4ffff0730030
+__inputmodule_MOD_readinputdata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:232 
+0x4ffff0736450
+__scfdatamodule_MOD_initscfdata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:209 
+0x4ffff077a740
+__polyhedramodule_MOD_getboxvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2479 
+0x4ffff0a64f6c
+__totalenergymodule_MOD_inittotalenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:62 
+0x4ffff09e2b88
+__chargedensitymodule_MOD_updatetotaldensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:3703 
+0x4ffff0866564
+genfactors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:93 
+0x4ffff084e6f4
+__potentialmodule_MOD_getsphpotr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:567 
+0x4ffff0bbe99c
+printscfresults_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/printScfResults.F90:2 
+0x4ffff0747144
+__systemmodule_MOD_getatomicnumber_all /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1281 
+0x4ffff0b203dc
+__multiscatteringdosmodule_MOD_setmsp_ef /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:118 
+0x4ffff073325c
+__scfdatamodule_MOD_issimplemixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1330 
+0x4ffff0744454
+__systemmodule_MOD_getlmaxmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1902 
+0x4ffff0a872e8
+__clustermatrixmodule_MOD_calclustermatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:667 
+0x4ffff0849310
+__potentialmodule_MOD_setpotef /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1659 
+0x4ffff073921c
+__potentialtypemodule_MOD_istestpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:216 
+0x4ffff07c7238
+__atommodule_MOD_getlocalatomicnumber /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1231 
+0x4ffff0b88d30
+zeroelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:709 
+0x4ffff072e9c4
+__inputmodule_MOD_getkeyvalue_str0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:751 
+0x4ffff0a55a20
+janake2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1369 
+0x4ffff0734918
+__scfdatamodule_MOD_isembeddedcluster /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:856 
+0x4ffff0b744cc
+calintegrateddos /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:1685 
+0x4ffff0777588
+__procmappingmodule_MOD_initprocmapping_1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:115 
+0x4ffff0a01710
+__chargedensitymodule_MOD_initchargedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:205 
+0x4ffff0777154
+__procmappingmodule_MOD_getenergyindex /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:271 
+0x4ffff0969e2c
+__corestatesmodule_MOD_getdeepcoree1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4514 
+0x4ffff0733d78
+__scfdatamodule_MOD_isssirregularsolon /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1024 
+0x4ffff07fb5ec
+__madelungmodule_MOD_initmadelung /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:83 
+0x4ffff07447dc
+__systemmodule_MOD_getlmaxrho0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1842 
+0x4ffff0733470
+__scfdatamodule_MOD_getpotentialtypeparam /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1272 
+0x4ffff0a6ead4
+getmixid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1249 
+0x4ffff07026bc
+__latticemodule_MOD_endlattice /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:141 
+0x4ffff0739db8
+__potentialtypemodule_MOD_initpotentialtype /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:30 
+0x4ffff09434b8
+__smatrixpolesmodule_MOD_endsmatrixpoles /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:247 
+0x4ffff07c6254
+__atommodule_MOD_gettruncpotlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1470 
+0x4ffff09f999c
+__chargedensitymodule_MOD_getsphmomentdensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1806 
+0x4ffff09b7cd4
+__constrainlocalmomentmodule_MOD_calconstrainlm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:181 
+0x4ffff07c6d18
+__atommodule_MOD_getlocalnumspecies /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1291 
+0x4ffff08471fc
+__potentialmodule_MOD_readpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1698 
+0x4ffff0963b7c
+__kreinmodule_MOD_setlloydq1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:137 
+0x4ffff08a21bc
+__sssolvermodule_MOD_solvesinglescattering /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1293 
+0x4ffff07449a0
+__systemmodule_MOD_getlmaxphi0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1812 
+0x4ffff06c947c
+__chemelementmodule_MOD_getnumcorestates_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1940 
+0x4ffff0b08fd4
+__mssolvermodule_MOD_endmssolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:502 
+0x4ffff092e388
+__singlescatteringdosmodule_MOD_setssp_generic /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SingleScatteringDOSModule.F90:66 
+0x4ffff0776ca4
+__procmappingmodule_MOD_isatomonmyproc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:434 
+0x4ffff09b3b3c
+v_plus_minus /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:826 
+0x4ffff07c8d10
+__atommodule_MOD_initatom /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:197 
+0x4ffff0735cc8
+__scfdatamodule_MOD_isrelativisticvalence /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:702 
+0x4ffff07c4ba4
+__atommodule_MOD_getmuffintinradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1927 
+0x4ffff0700508
+__defaultparammodule_MOD_getdefaultvalue_i0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:167 
+0x4ffff0a4a584
+__potentialgenerationmodule_MOD_endpotentialgeneration /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:744 
+0x4ffff0747210
+__systemmodule_MOD_getatomicnumber_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1254 
+0x4ffff07c69b8
+__atommodule_MOD_getlocalatomposition /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1322 
+0x4ffff0b911b8
+setuplizneighbor_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupLizNeighbor.F90:1 
+0x4ffff086e2ac
+__spinrotationmodule_MOD_initspinrotation /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:42 
+0x4ffff07c6088
+__atommodule_MOD_getmaxlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1519 
+0x4ffff096be58
+__corestatesmodule_MOD_getscd2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4287 
+0x4ffff06c9a44
+__chemelementmodule_MOD_getzval_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1877 
+0x4ffff0a64ba4
+__totalenergymodule_MOD_getenergyperatom /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:161 
+0x4ffff0714120
+readmomentdirectiondata_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/readMomentDirectionData.F90:23 
+0x4ffff0746e20
+__systemmodule_MOD_getatomposition_all /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1313 
+0x4ffff07bfa24
+__neighbormodule_MOD_initneighbor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:51 
+0x4ffff07c79b0
+__atommodule_MOD_getlocalevec /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1130 
+0x4ffff0735ef8
+__scfdatamodule_MOD_isnonrelativisticvalence /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:662 
+0x4ffff0a0aebc
+__chargedistributionmodule_MOD_updatechargedistribution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:358 
+0x4ffff073486c
+__scfdatamodule_MOD_iskkrcpasro /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:872 
+0x4ffff0733508
+__scfdatamodule_MOD_getdosrunid /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1259 
+0x4ffff0732fb0
+__scfdatamodule_MOD_ischargemixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1402 
+0x4ffff07c5318
+__atommodule_MOD_getradialgriddata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1791 
+0x4ffff09af384
+__uniform3dgridmodule_MOD_isuniform3dgridinitialized /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Uniform3DGridModule.F90:122 
+0x4ffff072cb9c
+__inputmodule_MOD_getkeyvalue_real3 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1382 
+0x4ffff0963ae4
+__kreinmodule_MOD_islloydon /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:177 
+0x4ffff077b76c
+__polyhedramodule_MOD_getoutscrsphradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2299 
+0x4ffff095b7b0
+__sinematrixzerosmodule_MOD_issinematrixzerosinitialized /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:254 
+0x4ffff07c50a4
+__atommodule_MOD_getmixingparam4pot /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1834 
+0x4ffff07770bc
+__procmappingmodule_MOD_getnumredundantesonmyproc /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:315 
+0x4ffff07437dc
+__systemmodule_MOD_updatesystem /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1932 
+0x4ffff09b38d0
+__constrainlocalmomentmodule_MOD_getfieldrms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:855 
+0x4ffff0a557e8
+zeropt /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1828 
+0x4ffff0830b34
+__radialgridmodule_MOD_getradialgridradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1359 
+0x4ffff07a0550
+__systemvolumemodule_MOD_getsystemvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:186 
+0x4ffff09c68c0
+__valencedensitymodule_MOD_getbandenergy_2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2009 
+0x4ffff096d86c
+__corestatesmodule_MOD_getcoredensityrmeshsize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4070 
+0x4ffff0969760
+__corestatesmodule_MOD_getsemicoree1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4567 
+0x4ffff07a409c
+__outputmodule_MOD_getdensityprintflag /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:476 
+0x4ffff0b9b5b0
+updatepotential_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/updatePotential.F90:1 
+0x4ffff15c0430
+MPI_Init /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:22 
+0x4ffff09cf738
+__valencedensitymodule_MOD_getvalencevpmoment /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:705 
+0x4ffff09b9f88
+__constrainlocalmomentmodule_MOD_initconstrainlm /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:48 
+0x4ffff06c89a8
+__chemelementmodule_MOD_getcorestatel_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2100 
+0x4ffff0a775fc
+__mixingmodule_MOD_initmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:172 
+0x4ffff07a3308
+__outputmodule_MOD_getpotentialprintflag /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:553 
+0x4ffff07c6880
+__atommodule_MOD_getkkrlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1339 
+0x4ffff077a1a8
+__polyhedramodule_MOD_getplane /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2535 
+0x4ffff07c6390
+__atommodule_MOD_getpotlmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1437 
+0x4ffff15c1c08
+MPI_Cart_create /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1939 
+0x4ffff07a05e8
+__systemvolumemodule_MOD_endsystemvolume /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:165 
+0x4ffff0b7fc30
+__gfmethodmodule_MOD_calvalencestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:821 
+0x4ffff073ec08
+__exchcorrfunctionalmodule_MOD_getexchcorrpot_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:629 
+0x4ffff0a86934
+__forcemodule_MOD_initforce /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ForceModule.F90:26 
+0x4ffff0702868
+__latticemodule_MOD_initlatt0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:33 
+0x4ffff0777fc0
+__atom2procmodule_MOD_getlocalnumatoms1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:153 
+0x4ffff0a6c880
+setbroydenspace /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1334 
+0x4ffff0738ec0
+__potentialtypemodule_MOD_ismuffintinfullpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:314 
+0x4ffff070f2a4
+__checkpointmodule_MOD_isstoppoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:194 
+0x4ffff073a05c
+__exchcorrfunctionalmodule_MOD_isggafunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1576 
+0x4ffff0769d7c
+__contourmodule_MOD_endcontour /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:962 
+0x4ffff072d608
+__inputmodule_MOD_getkeyvalue_real0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1212 
+0x4ffff0967d1c
+__corestatesmodule_MOD_getsemicorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:5107 
+0x4ffff15c2fc4
+__wrap_zcopy_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:12 
+0x4ffff07f634c
+madsum /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:994 
+0x4ffff070f4b4
+__checkpointmodule_MOD_insertstoppoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:81 
+0x4ffff072da70
+__inputmodule_MOD_getkeyvalue_int2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1095 
+0x4ffff06d5990
+__publicparamdefinitionsmodule_MOD_checkparameter /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PublicParamDefinitionsModule.F90:96 
+0x4ffff0b4fe64
+addspincantstruct_r /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5029 
+0x4ffff072f128
+__inputmodule_MOD_iskeyexisting /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:679 
+0x4ffff072bcc4
+__inputmodule_MOD_getkeyindexvalue_int1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:2079 
+0x4ffff070105c
+genkbravais /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:279 
+0x4ffff07a4588
+__outputmodule_MOD_endoutput /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:360 
+0x4ffff0746c20
+__systemmodule_MOD_getmomentdirectionmixingparam /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1358 
+0x4ffff089a574
+precor4 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:2699 
+0x4ffff083fe44
+__potentialmodule_MOD_writepotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2515 
+0x4ffff07014cc
+callatticesystem /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:211 
+0x4ffff15c1b24
+MPI_Cart_coords /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1916 
+0x4ffff072c298
+__inputmodule_MOD_getkeyindexvalue_str1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1813 
+0x4ffff07ed044
+__stepfunctionmodule_MOD_getvolumeintegration0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:1036 
+0x4ffff15c18bc
+MPI_Comm_split /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1552 
+0x4ffff0745690
+__systemmodule_MOD_setatomenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1689 
+0x4ffff07b4594
+setuprecvtable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:851 
+0x4ffff079ed60
+__polyhedramodule_MOD_initpolyhedra /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:136 
+0x4ffff07a038c
+__systemvolumemodule_MOD_getatomicvpvolume_one /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:251 
+0x4ffff086e040
+__spinrotationmodule_MOD_endspinrotation /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:69 
+0x4ffff0744328
+__systemmodule_MOD_getradicalplaneratio /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1915 
+0x4ffff06e7450
+__matrixblockinversionmodule_MOD_invertmatrixblock /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:314 
+0x4ffff0a6aa5c
+__convergencecheckmodule_MOD_initconvergencecheck /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:29 
+0x4ffff08493a0
+__potentialmodule_MOD_getpotef /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1646 
+0x4ffff0747a88
+__systemmodule_MOD_getalloyelementcontent /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1098 
+0x4ffff09e8774
+__chargedensitymodule_MOD_constructchargedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:2375 
+0x4ffff0777804
+__atom2procmodule_MOD_getglobalindex1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:246 
+0x4ffff073a398
+ldafunctional /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1318 
+0x4ffff0700110
+__defaultparammodule_MOD_getdefaultvalue_r0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:273 
+0x4ffff0739658
+__potentialtypemodule_MOD_ismuffintinpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:127 
+0x4ffff079c7ec
+__polyhedramodule_MOD_genpoly2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:318 
+0x4ffff0747f28
+__systemmodule_MOD_getnumalloyelements /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1045 
+0x4ffff07c12f0
+__sendrecvtmatmodule_MOD_getnumnonlocalneighbors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:196 
+0x4ffff082aa48
+__ldacorrectionmodule_MOD_islcn_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:272 
+0x4ffff073956c
+__potentialtypemodule_MOD_isasapotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:149 
+0x4ffff077978c
+__polyhedramodule_MOD_isexternalpoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2601 
+0x4ffff0747c84
+__systemmodule_MOD_getalloyelementname /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1076 
+0x4ffff0746d88
+__systemmodule_MOD_getscalingfactor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1327 
+0x4ffff07bd73c
+__neighbormodule_MOD_endneighbor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:96 
+0x4ffff0777c08
+__atom2procmodule_MOD_getlocalindex /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:208 
+0x4ffff0afe7e4
+genfactors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:1669 
+0x4ffff0744a38
+__systemmodule_MOD_getlmaxkkr1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1795 
+0x4ffff08395b0
+setpotcompflag /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2949 
+0x4ffff07b8cec
+__neighbormodule_MOD_setneighbor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:197 
+0x4ffff0bae614
+putpotg_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/putpotg.F90:3 
+0x4ffff0748618
+__systemmodule_MOD_setsiteliz /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:906 
+0x4ffff07b66b0
+__neighbormodule_MOD_getnumreceives /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:732 
+0x4ffff07b8b5c
+__neighbormodule_MOD_getnumneighbors /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:345 
+0x4ffff07c0ff8
+__sendrecvtmatmodule_MOD_getnumprocwisesends /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:277 
+0x4ffff07bd5b0
+__neighbormodule_MOD_getneighbor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:157 
+0x4ffff07c6608
+__atommodule_MOD_getphilmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1371 
+0x4ffff07faa5c
+calscalingfactor /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:304 
+0x4ffff07f82b0
+genlattice /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:579 
+0x4ffff07fe5cc
+__systemsymmetrymodule_MOD_getsymmetryflags0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:420 
+0x4ffff07b4414
+__neighbormodule_MOD_getsendtable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:904 
+0x4ffff07fe874
+calmadsymmetryflags /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:287 
+0x4ffff077b8b0
+__polyhedramodule_MOD_getinscrsphradius /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2279 
+0x4ffff0748eb0
+__systemmodule_MOD_initsystem /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:190 
+0x4ffff08312fc
+__radialgridmodule_MOD_getnumrmesh /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1272 
+0x4ffff082ac04
+__ldacorrectionmodule_MOD_islcn /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:258 
+0x4ffff0a86804
+__forcemodule_MOD_endforce /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ForceModule.F90:60 
+0x4ffff09737e0
+corslv /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:2492 
+0x4ffff073b874
+calexchcorr_s /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1189 
+0x4ffff0842c84
+readformatteddata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1872 
+0x4ffff07c6df8
+__atommodule_MOD_getlocalatomnickname /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1271 
+0x4ffff09974dc
+readformatteddata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:642 
+0x4ffff0733058
+__scfdatamodule_MOD_ispotentialmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1384 
+0x4ffff0734a70
+__scfdatamodule_MOD_islsms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:824 
+0x4ffff0b90b00
+aliasarray4_c /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:373 
+0x4ffff0733768
+__scfdatamodule_MOD_isefiterateon /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1136 
+0x4ffff0963c38
+__kreinmodule_MOD_setlloydstatus /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:124 
+0x4ffff0b91048
+aliasarray2_r /home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:261 
+0x4ffff078c6e4
+setuppolyhedron /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:614 
+0x4ffff0a35cc0
+calzeropotential_mt /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:2314 
+0x4ffff07c5520
+__atommodule_MOD_getopff0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1658 
+0x4ffff0732b88
+__scfdatamodule_MOD_getadaptiveintegrationmethod /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1544 
+0x4ffff0777ee8
+__atom2procmodule_MOD_getmaxlocalnumatoms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:172 
+0x4ffff06e2350
+__adaptintegrationmodule_MOD_initadaptintegration /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AdaptIntegrationModule.F90:35 
+0x4ffff0941e4c
+__smatrixpolesmodule_MOD_issmatrixpolesinitialized /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:329 
+0x4ffff073b470
+calexchcorr_v /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1251 
+0x4ffff09cd110
+__valencedensitymodule_MOD_getsphrho_is /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:950 
+0x4ffff094651c
+__smatrixpolesmodule_MOD_initsmatrixpoles /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:110 
+0x4ffff0747e90
+__systemmodule_MOD_getalloytablesize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1063 
+0x4ffff0733ca8
+__scfdatamodule_MOD_isfittedchargeden /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1042 
+0x4ffff0830f1c
+__radialgridmodule_MOD_getrmesh /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1332 
+0x4ffff07a4714
+__outputmodule_MOD_initoutput /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:82 
+0x4ffff09c7f40
+__valencedensitymodule_MOD_getvmd3 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1745 
+0x4ffff084fdd0
+__potentialmodule_MOD_initpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:131 
+0x4ffff0a07720
+setupchargelist /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:904 
+0x4ffff0771f98
+__procmappingmodule_MOD_createparallelization /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:469 
+0x4ffff07c4f68
+__atommodule_MOD_getmixingparam4charge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1853 
+0x4ffff0739768
+__potentialtypemodule_MOD_issphericalpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:92 
+0x4ffff09723a4
+deepst /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:2811 
+0x4ffff0a74768
+__mixingmodule_MOD_setbroydenmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:560 
+0x4ffff0865a08
+__rspacestrconstmodule_MOD_initrspacestrconst /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:128 
+0x4ffff0a0adb0
+__chargedistributionmodule_MOD_getglobaltableline /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:568 
+0x4ffff07c15d4
+__sendrecvtmatmodule_MOD_initsendrecvtmat /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:42 
+0x4ffff09cc058
+__valencedensitymodule_MOD_getvalencesphericalmomentdensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1118 
+0x4ffff07b65d8
+__neighbormodule_MOD_getmaxreceives /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:754 
+0x4ffff07c5b04
+__atommodule_MOD_getipfn2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1562 
+0x4ffff0a0cd48
+__chargedistributionmodule_MOD_endchargedistribution /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:327 
+0x4ffff0839dd4
+writeunformatteddata /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2778 
+0x4ffff07fa888
+__madelungmodule_MOD_getmadelungmatrix /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:394 
+0x4ffff0733104
+__scfdatamodule_MOD_isbroydenmixing /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1366 
+0x4ffff0733b80
+__scfdatamodule_MOD_ischargecorr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1060 
+0x4ffff07317e0
+__scfdatamodule_MOD_getmixingparamforfermienergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1730 
+0x4ffff09b57d4
+set_b_basis /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:509 
+0x4ffff06c9280
+__chemelementmodule_MOD_getcorestateindex /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2003 
+0x4ffff07c6744
+__atommodule_MOD_getstepfunclmax /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1355 
+0x4ffff0a49de0
+__potentialgenerationmodule_MOD_getvdif /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:890 
+0x4ffff07c47d0
+__atommodule_MOD_setatomcorerad /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1978 
+0x4ffff0b95c80
+buildsendtable_ /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/buildSendTable.F90:2 
+0x4ffff086d2cc
+__spinrotationmodule_MOD_calspinrotation /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:83 
+0x4ffff07b3fc8
+__neighbormodule_MOD_getrecvtable /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:968 
+0x4ffff08b3860
+__sssolvermodule_MOD_initsssolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:322 
+0x4ffff06ca00c
+__chemelementmodule_MOD_getzsem_a /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1814 
+0x4ffff0b0ccb4
+__mssolvermodule_MOD_initmssolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:188 
+0x4ffff0739480
+__potentialtypemodule_MOD_ismuffintinasapotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:171 
+0x4ffff0731528
+__inputmodule_MOD_endinput /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:105 
+0x4ffff0b4b1d0
+caldensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5772 
+0x4ffff07454d0
+__systemmodule_MOD_getadditionalelectrons /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1727 
+0x4ffff08b0410
+__sssolvermodule_MOD_endsssolver /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:971 
+0x4ffff096cdac
+__corestatesmodule_MOD_getdcd2 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4148 
+0x4ffff099c8bc
+__corestatesmodule_MOD_initcorestates /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:204 
+0x4ffff09cc9fc
+__valencedensitymodule_MOD_getvalencesphericalelectrondensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1075 
+0x4ffff09c4e20
+__valencedensitymodule_MOD_getexchangeenergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2171 
+0x4ffff0a86fb4
+__clustermatrixmodule_MOD_getkau /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:1265 
+0x4ffff0a00170
+__chargedensitymodule_MOD_endchargedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1152 
+0x4ffff0a3651c
+calsphpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:2014 
+0x4ffff0a38dc0
+constructnewpotential /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:1978 
+0x4ffff0830080
+__radialgridmodule_MOD_getradialgridpoint /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1405 
+0x4ffff07462f8
+__systemmodule_MOD_setexchangefielddirection /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1483 
+0x4ffff09ce8c4
+__valencedensitymodule_MOD_getfermienergy /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:863 
+0x4ffff09ffb30
+__chargedensitymodule_MOD_getsphchargedensity /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1215 
+0x4ffff0a4a03c
+__potentialgenerationmodule_MOD_getsphpotr /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:837 
+0x4ffff074873c
+__systemmodule_MOD_getnumatoms /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:893 
+0x4ffff0849438
+__potentialmodule_MOD_getvdif /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1632 
+0x4ffff09cfd1c
+__valencedensitymodule_MOD_getvalencevpcharge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:621 
+0x4ffff0849504
+__potentialmodule_MOD_setvdif /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1617 
+0x4ffff0a49ad0
+__potentialgenerationmodule_MOD_setvdif /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:938 
+0x4ffff09cecfc
+__valencedensitymodule_MOD_setvalencevpmomentsize /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:769 
+0x4ffff0700c9c
+__defaultparammodule_MOD_enddefaultparam /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:46 
+0x4ffff073a2cc
+__exchcorrfunctionalmodule_MOD_ishartreeapproximation /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1540 
+0x4ffff07e03e4
+calsig /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3124 
+0x4ffff072b6e4
+__inputmodule_MOD_getkeyindexvalue_real1 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:2304 
+0x4ffff0771c04
+setupprocdim /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:929 
+0x4ffff0b89e68
+cleanelectrostruct /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:672 
+0x4ffff09c3468
+__valencedensitymodule_MOD_updatevalencecharge /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2194 
+0x4ffff06e21c4
+__adaptintegrationmodule_MOD_endadaptintegration /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AdaptIntegrationModule.F90:69 
+0x4ffff0777a44
+__atom2procmodule_MOD_getglobalindex0 /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:227 
+0x4ffff079dfb0
+__polyhedramodule_MOD_endpolyhedra /home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:192 

@@ -1,0 +1,1110 @@
+***************************函数采样信息*****************************
+FuncName                                          	CpuTime           	Percentage     	SelfTime          	Percentage     	CallTimes      	AvarageSelfTime
+MPI_Wtime                                         	53406083          	0.012904%      	53406083          	0.012904%      	1041641        	51.271103      
+sigma                                             	317283620         	0.076664%      	317283620         	0.076664%      	511188         	620.678928     
+__rspacestrconstmodule_MOD_getstrconstmatrix      	110339951566      	26.661113%     	110303217434      	26.652237%     	417648         	264105.700097  
+aliasarray2_c                                     	36734132          	0.008876%      	36734132          	0.008876%      	417648         	87.954766      
+chkpnt                                            	26922960          	0.006505%      	26922960          	0.006505%      	112852         	238.568745     
+intphi                                            	5728932402        	1.384265%      	5414066386        	1.308185%      	55616          	97347.281106   
+__systemmodule_MOD_getatomposition_one            	955702            	0.000231%      	955702            	0.000231%      	11151          	85.705497      
+__stepfunctionmodule_MOD_getstepfunction1         	8884295982        	2.146686%      	1195997           	0.000289%      	9639           	124.078950     
+__wrap_zcopy_                                     	478761298         	0.115682%      	478761298         	0.115682%      	6834           	70055.794264   
+__wrap_zgemm_                                     	36493009674       	8.817697%      	36493009674       	8.817697%      	6667           	5473677.767212 
+ldafunctional                                     	4896297           	0.001183%      	4896297           	0.001183%      	4008           	1221.630988    
+__ldacorrectionmodule_MOD_islcn_al                	128688            	0.000031%      	128688            	0.000031%      	3405           	37.793833      
+chkedge                                           	1588875           	0.000384%      	1588875           	0.000384%      	1469           	1081.603131    
+calgammafunc                                      	333627            	0.000081%      	333627            	0.000081%      	1407           	237.119403     
+precor4                                           	3388236480        	0.818689%      	3388236480        	0.818689%      	670            	5057069.373134 
+richnk                                            	437490            	0.000106%      	437490            	0.000106%      	486            	900.185185     
+numlat_                                           	594595961         	0.143670%      	594595961         	0.143670%      	422            	1408995.168246 
+aliasarray2_c                                     	163190            	0.000039%      	163190            	0.000039%      	421            	387.624703     
+solveradeqn4reg                                   	1776896531        	0.429346%      	63277524          	0.015290%      	340            	186110.364706  
+solveradeqn4irr                                   	1796431669        	0.434066%      	121814196         	0.029434%      	330            	369133.927273  
+__polyhedramodule_MOD_getnumedges                 	32526             	0.000008%      	32526             	0.000008%      	301            	108.059801     
+__systemmodule_MOD_getatomicnumber_one            	14350             	0.000003%      	14350             	0.000003%      	236            	60.805085      
+getrscut                                          	9081399           	0.002194%      	8747772           	0.002114%      	211            	41458.635071   
+getkncut                                          	1917983           	0.000463%      	1917983           	0.000463%      	211            	9089.966825    
+__ldacorrectionmodule_MOD_islcn_a                 	72781             	0.000018%      	72781             	0.000018%      	205            	355.029268     
+__systemsymmetrymodule_MOD_getsymmetryflags0      	275076            	0.000066%      	275076            	0.000066%      	201            	1368.537313    
+__sssolvermodule_MOD_getregsolution               	125574            	0.000030%      	125574            	0.000030%      	198            	634.212121     
+__sssolvermodule_MOD_getscatteringmatrix          	3783194           	0.000914%      	3783194           	0.000914%      	198            	19107.040404   
+__atom2procmodule_MOD_getatom2procingroup         	15115             	0.000004%      	15115             	0.000004%      	185            	81.702703      
+__radialgridmodule_MOD_getgrid                    	64436             	0.000016%      	64436             	0.000016%      	185            	348.302703     
+__potentialtypemodule_MOD_isasapotential          	18180             	0.000004%      	18180             	0.000004%      	178            	102.134831     
+aliasarray2_c                                     	74327             	0.000018%      	74327             	0.000018%      	165            	450.466667     
+__wrap_zgetrf_                                    	60578803866       	14.637475%     	50593663082       	12.224796%     	164            	308497945.621951
+__wrap_zgetrs_                                    	28558038478       	6.900394%      	28558038478       	6.900394%      	164            	174134380.963415
+__stepfunctionmodule_MOD_getvolumeintegration1    	252059911         	0.060904%      	33762514          	0.008158%      	132            	255776.621212  
+aliasarray2_c                                     	21755             	0.000005%      	21755             	0.000005%      	132            	164.810606     
+aliasarray2_c                                     	33698             	0.000008%      	33698             	0.000008%      	132            	255.287879     
+__atommodule_MOD_getlocalnumspecies               	32087             	0.000008%      	32087             	0.000008%      	129            	248.736434     
+__polyhedramodule_MOD_getnumplanes                	14831             	0.000004%      	14831             	0.000004%      	122            	121.565574     
+__polyhedramodule_MOD_getplane                    	54130             	0.000013%      	54130             	0.000013%      	122            	443.688525     
+cleanup                                           	860479            	0.000208%      	860479            	0.000208%      	120            	7170.658333    
+__systemmodule_MOD_getlmaxkkr1                    	6696              	0.000002%      	6696              	0.000002%      	112            	59.785714      
+__atom2procmodule_MOD_getlocalindex               	5306              	0.000001%      	5306              	0.000001%      	112            	47.375000      
+__chemelementmodule_MOD_getztot                   	622484            	0.000150%      	553022            	0.000134%      	106            	5217.188679    
+aliasarray2_c                                     	12784             	0.000003%      	12784             	0.000003%      	99             	129.131313     
+chkbnd                                            	989269681         	0.239034%      	962488593         	0.232563%      	86             	11191727.825581
+__inputmodule_MOD_getkeyvalue_int0                	12885893          	0.003114%      	867188            	0.000210%      	85             	10202.211765   
+MPI_Barrier                                       	151824256         	0.036685%      	151824256         	0.036685%      	76             	1997687.578947 
+MPI_Iprobe                                        	935288            	0.000226%      	935288            	0.000226%      	75             	12470.506667   
+setupintwkspace                                   	13370260          	0.003231%      	13370260          	0.003231%      	73             	183154.246575  
+__scfdatamodule_MOD_islsms                        	6192              	0.000001%      	6192              	0.000001%      	72             	86.000000      
+__spinrotationmodule_MOD_transformdm1             	116803            	0.000028%      	116803            	0.000028%      	72             	1622.263889    
+__scfdatamodule_MOD_isinterstitialelectronpolarized	18636             	0.000005%      	18636             	0.000005%      	72             	258.833333     
+__polyhedramodule_MOD_getinscrsphradius           	30098             	0.000007%      	30098             	0.000007%      	69             	436.202899     
+initglobalvariables                               	14939791          	0.003610%      	14908928          	0.003602%      	68             	219248.941176  
+__potentialmodule_MOD_getpoten_l1                 	138103            	0.000033%      	138103            	0.000033%      	68             	2030.926471    
+__sssolvermodule_MOD_solvesinglescattering        	12921434992       	3.122168%      	5229359039        	1.263554%      	68             	76902338.808824
+__potentialmodule_MOD_ispotcomponentzero          	120788            	0.000029%      	120788            	0.000029%      	68             	1776.294118    
+calintegrationtor                                 	206134702         	0.049808%      	206134702         	0.049808%      	66             	3123253.060606 
+isirrsoltypevalid                                 	59258             	0.000014%      	59258             	0.000014%      	66             	897.848485     
+gettarget_3c                                      	29738             	0.000007%      	29738             	0.000007%      	66             	450.575758     
+__sssolvermodule_MOD_computegf0                   	237507458         	0.057388%      	228278126         	0.055158%      	66             	3458759.484848 
+computeirrsol                                     	5560098617        	1.343470%      	3532801075        	0.853620%      	66             	53527289.015152
+adjustenergy_c_                                   	482573            	0.000117%      	464770            	0.000112%      	66             	7041.969697    
+__spinrotationmodule_MOD_rotateltog               	18838051          	0.004552%      	18838051          	0.004552%      	66             	285425.015152  
+__sssolvermodule_MOD_getgreenfunction             	121038            	0.000029%      	121038            	0.000029%      	66             	1833.909091    
+__atom2procmodule_MOD_getglobalindex0             	41929             	0.000010%      	41929             	0.000010%      	64             	655.140625     
+__polyhedramodule_MOD_getoutscrsphradius          	7820              	0.000002%      	7820              	0.000002%      	64             	122.187500     
+stepyll                                           	8883099985        	2.146397%      	6743642           	0.001629%      	63             	107041.936508  
+filter_edge                                       	10034951          	0.002425%      	8549322           	0.002066%      	63             	135703.523810  
+intpl0                                            	200184            	0.000048%      	200184            	0.000048%      	62             	3228.774194    
+__polyhedramodule_MOD_getedge                     	48527             	0.000012%      	48527             	0.000012%      	61             	795.524590     
+calsig                                            	8856206961        	2.139899%      	3127274559        	0.755634%      	60             	52121242.650000
+caltnode                                          	19664245          	0.004751%      	16491987          	0.003985%      	60             	274866.450000  
+MPI_Allreduce                                     	62781357          	0.015170%      	62781357          	0.015170%      	57             	1101427.315789 
+__sssolvermodule_MOD_getfreeelectrondos           	1916940456        	0.463185%      	1916924239        	0.463181%      	56             	34230789.982143
+__defaultparammodule_MOD_getdefaultvalue_i0       	12018705          	0.002904%      	12018705          	0.002904%      	54             	222568.611111  
+__atommodule_MOD_getlocalevec                     	601470            	0.000145%      	601470            	0.000145%      	49             	12274.897959   
+__polyhedramodule_MOD_isexternalpoint             	312654            	0.000076%      	272051            	0.000066%      	48             	5667.729167    
+outws                                             	19139313          	0.004625%      	18844747          	0.004553%      	46             	409668.413043  
+invals                                            	294566            	0.000071%      	294566            	0.000071%      	46             	6403.608696    
+__neighbormodule_MOD_getneighbor                  	25328             	0.000006%      	25328             	0.000006%      	44             	575.636364     
+__inputmodule_MOD_getkeyvalue_real0               	7189253           	0.001737%      	462260            	0.000112%      	38             	12164.736842   
+MPI_Wait                                          	5147004           	0.001244%      	5147004           	0.001244%      	37             	139108.216216  
+MPI_Isend                                         	598659            	0.000145%      	598659            	0.000145%      	37             	16179.972973   
+__chemelementmodule_MOD_getnumcorestates_a        	402940            	0.000097%      	208898            	0.000050%      	36             	5802.722222    
+aliasarray3_c                                     	14813             	0.000004%      	14813             	0.000004%      	35             	423.228571     
+aliasarray3_c                                     	4904              	0.000001%      	4904              	0.000001%      	34             	144.235294     
+__matrixblockinversionmodule_MOD_invertmatrixblock	111664023792      	26.981045%     	15065586          	0.003640%      	33             	456532.909091  
+calelectrostruct                                  	10624435          	0.002567%      	10602680          	0.002562%      	33             	321293.333333  
+__clustermatrixmodule_MOD_calclustermatrix        	349448626677      	84.436228%     	127046517024      	30.697870%     	33             	3849894455.272727
+__mssolvermodule_MOD_getmsgreenfunction           	15882             	0.000004%      	15882             	0.000004%      	33             	481.272727     
+__checkpointmodule_MOD_isstoppoint                	539937            	0.000130%      	539937            	0.000130%      	33             	16361.727273   
+__spinrotationmodule_MOD_rotategtol               	12067014          	0.002916%      	12067014          	0.002916%      	33             	365667.090909  
+exchangesssmatrix                                 	70305592          	0.016988%      	5142440           	0.001243%      	33             	155831.515152  
+zblock_lu1                                        	111648547539      	26.977305%     	13894651          	0.003357%      	33             	421050.030303  
+setblockalgorithm                                 	103248            	0.000025%      	103248            	0.000025%      	33             	3128.727273    
+__clustermatrixmodule_MOD_getkau                  	25313             	0.000006%      	25313             	0.000006%      	33             	767.060606     
+__multiscatteringdosmodule_MOD_getmscatteringdos  	2201483093        	0.531938%      	31018236          	0.007495%      	33             	939946.545455  
+__sssolvermodule_MOD_getsolutionrmeshsize         	25563             	0.000006%      	25563             	0.000006%      	33             	774.636364     
+__multiscatteringdosmodule_MOD_setmsp_specific    	6679              	0.000002%      	6679              	0.000002%      	33             	202.393939     
+MPI_Recv                                          	2285045           	0.000552%      	2285045           	0.000552%      	33             	69243.787879   
+find_sym                                          	280640            	0.000068%      	277681            	0.000067%      	33             	8414.575758    
+__mssolvermodule_MOD_computemsgreenfunction       	376206648639      	90.901689%     	10114744014       	2.443995%      	33             	306507394.363636
+computemstmatrix                                  	349449579769      	84.436458%     	949053            	0.000229%      	33             	28759.181818   
+addelectrostruct_c                                	8572687           	0.002071%      	8516896           	0.002058%      	32             	266153.000000  
+__procmappingmodule_MOD_getenergyindex            	13068             	0.000003%      	13068             	0.000003%      	32             	408.375000     
+addspincantstruct_c                               	55791             	0.000013%      	55791             	0.000013%      	32             	1743.468750    
+inws                                              	2686633           	0.000649%      	2686633           	0.000649%      	28             	95951.178571   
+__inputmodule_MOD_getkeyvalue_str0                	3460468           	0.000836%      	224312            	0.000054%      	28             	8011.142857    
+__defaultparammodule_MOD_getdefaultvalue_r0       	6726993           	0.001625%      	6726993           	0.001625%      	27             	249147.888889  
+__radialgridmodule_MOD_getnumrmesh                	5406              	0.000001%      	5406              	0.000001%      	24             	225.250000     
+__potentialtypemodule_MOD_isfullpotential         	5481              	0.000001%      	5481              	0.000001%      	22             	249.136364     
+__chemelementmodule_MOD_getcorestateindex         	7872              	0.000002%      	7872              	0.000002%      	21             	374.857143     
+__atommodule_MOD_getlocalspeciescontent           	2634              	0.000001%      	2634              	0.000001%      	20             	131.700000     
+__defaultparammodule_MOD_getdefaultvalue_s0       	3236156           	0.000782%      	3236156           	0.000782%      	18             	179786.444444  
+inwhnk                                            	3073743           	0.000743%      	2636253           	0.000637%      	18             	146458.500000  
+__inputmodule_MOD_getkeyindexvalue_int1           	71320             	0.000017%      	71320             	0.000017%      	17             	4195.294118    
+__scfdatamodule_MOD_iskkrcpasro                   	549               	0.000000%      	549               	0.000000%      	15             	36.600000      
+__systemmodule_MOD_getnumatoms                    	1924              	0.000000%      	1924              	0.000000%      	15             	128.266667     
+__systemmodule_MOD_getnumalloyelements            	6242              	0.000002%      	6242              	0.000002%      	15             	416.133333     
+__scfdatamodule_MOD_iskkrcpa                      	1863              	0.000000%      	1863              	0.000000%      	15             	124.200000     
+__chemelementmodule_MOD_getcorestatel_a           	138060            	0.000033%      	78895             	0.000019%      	14             	5635.357143    
+__chemelementmodule_MOD_getcorestaten_a           	138415            	0.000033%      	78822             	0.000019%      	14             	5630.142857    
+__chemelementmodule_MOD_getcorestatekappa_a       	136972            	0.000033%      	78387             	0.000019%      	14             	5599.071429    
+__chemelementmodule_MOD_getcorestatesymbol_a      	132828            	0.000032%      	73985             	0.000018%      	14             	5284.642857    
+deepst                                            	87002330          	0.021022%      	73486146          	0.017756%      	14             	5249010.428571 
+MPI_Bcast                                         	147942601         	0.035747%      	147942601         	0.035747%      	13             	11380200.076923
+__inputmodule_MOD_getkeyindexvalue_real1          	47741             	0.000012%      	47741             	0.000012%      	11             	4340.090909    
+__polyhedramodule_MOD_getvolume                   	2054              	0.000000%      	2054              	0.000000%      	11             	186.727273     
+__potentialgenerationmodule_MOD_getsphpotr        	10230             	0.000002%      	10230             	0.000002%      	10             	1023.000000    
+__potentialmodule_MOD_getsphpotr                  	11375             	0.000003%      	11375             	0.000003%      	10             	1137.500000    
+__systemmodule_MOD_getalloyelementcontent         	2155              	0.000001%      	2155              	0.000001%      	10             	215.500000     
+__systemvolumemodule_MOD_getatomicvpvolume_one    	716               	0.000000%      	716               	0.000000%      	9              	79.555556      
+aliasarray3_c                                     	2749              	0.000001%      	2749              	0.000001%      	8              	343.625000     
+__atommodule_MOD_getlocalatomicnumber             	2843              	0.000001%      	2843              	0.000001%      	8              	355.375000     
+__systemmodule_MOD_updatesystem                   	670536            	0.000162%      	369514            	0.000089%      	8              	46189.250000   
+MPI_Comm_free                                     	42515             	0.000010%      	42515             	0.000010%      	7              	6073.571429    
+__stepfunctionmodule_MOD_getvolumeintegration0    	25518849          	0.006166%      	24311284          	0.005874%      	7              	3473040.571429 
+__exchcorrfunctionalmodule_MOD_isggafunctional    	9651              	0.000002%      	9651              	0.000002%      	7              	1378.714286    
+__scfdatamodule_MOD_ischargecorr                  	81086             	0.000020%      	80237             	0.000019%      	7              	11462.428571   
+MPI_Comm_split                                    	1190297           	0.000288%      	1190297           	0.000288%      	6              	198382.833333  
+__potentialmodule_MOD_setsphpotr                  	1308590           	0.000316%      	1308590           	0.000316%      	6              	218098.333333  
+__chargedistributionmodule_MOD_getglobaltableline 	1014              	0.000000%      	1014              	0.000000%      	6              	169.000000     
+__scfdatamodule_MOD_ischargesymm                  	1009              	0.000000%      	1009              	0.000000%      	6              	168.166667     
+__scfdatamodule_MOD_isexchangeparamneeded         	968               	0.000000%      	968               	0.000000%      	6              	161.333333     
+__systemmodule_MOD_getalloyelementname            	8981              	0.000002%      	8981              	0.000002%      	6              	1496.833333    
+semcst                                            	56739636          	0.013710%      	45356131          	0.010959%      	6              	7559355.166667 
+zeroelectrostruct                                 	336615            	0.000081%      	336615            	0.000081%      	6              	56102.500000   
+__potentialtypemodule_MOD_ismuffintinpotential    	1673              	0.000000%      	1673              	0.000000%      	6              	278.833333     
+__scfdatamodule_MOD_ispotentialmixing             	173               	0.000000%      	173               	0.000000%      	5              	34.600000      
+__scfdatamodule_MOD_iskkr                         	965               	0.000000%      	965               	0.000000%      	5              	193.000000     
+__madelungmodule_MOD_getmadelungmatrix            	3474              	0.000001%      	3474              	0.000001%      	5              	694.800000     
+__atom2procmodule_MOD_getlocalnumatoms0           	1169              	0.000000%      	1169              	0.000000%      	5              	233.800000     
+__scfdatamodule_MOD_getpotentialtypeparam         	155               	0.000000%      	155               	0.000000%      	5              	31.000000      
+__inputmodule_MOD_getkeyindexvalue_str1           	25761             	0.000006%      	25761             	0.000006%      	5              	5152.200000    
+adjustenergy_r_                                   	21630             	0.000005%      	21495             	0.000005%      	4              	5373.750000    
+__chargedensitymodule_MOD_getsphmomentdensity     	35389             	0.000009%      	35389             	0.000009%      	4              	8847.250000    
+cleanelectrostruct                                	17326             	0.000004%      	17326             	0.000004%      	4              	4331.500000    
+__exchcorrfunctionalmodule_MOD_getexchcorrpot_v   	3041              	0.000001%      	3041              	0.000001%      	4              	760.250000     
+__valencedensitymodule_MOD_getfermienergy         	192               	0.000000%      	192               	0.000000%      	4              	48.000000      
+aliasarray4_c                                     	713               	0.000000%      	713               	0.000000%      	4              	178.250000     
+__exchcorrfunctionalmodule_MOD_getexchcorrpot_s   	533               	0.000000%      	533               	0.000000%      	4              	133.250000     
+calexchcorr_v                                     	27219078          	0.006577%      	22332301          	0.005396%      	4              	5583075.250000 
+__exchcorrfunctionalmodule_MOD_getexchcorrenden_s 	182               	0.000000%      	182               	0.000000%      	4              	45.500000      
+aliasarray2_r                                     	556               	0.000000%      	556               	0.000000%      	4              	139.000000     
+MPI_Type_size                                     	2757              	0.000001%      	2757              	0.000001%      	4              	689.250000     
+__radialgridmodule_MOD_getrmesh                   	2374              	0.000001%      	2374              	0.000001%      	4              	593.500000     
+__systemvolumemodule_MOD_gettotalinterstitialvolume	1048              	0.000000%      	1048              	0.000000%      	4              	262.000000     
+__atommodule_MOD_getlocalconstrainfield           	1857              	0.000000%      	1857              	0.000000%      	4              	464.250000     
+setupelectrostruct                                	281917            	0.000068%      	140978            	0.000034%      	4              	35244.500000   
+__systemmodule_MOD_getbravaislattice              	2691              	0.000001%      	2691              	0.000001%      	4              	672.750000     
+calexchcorr_s                                     	37285             	0.000009%      	27765             	0.000007%      	4              	6941.250000    
+__chargedensitymodule_MOD_getsphchargedensity     	44863             	0.000011%      	44863             	0.000011%      	4              	11215.750000   
+__chemelementmodule_MOD_getzcor_a                 	44460             	0.000011%      	26591             	0.000006%      	4              	6647.750000    
+__atommodule_MOD_getatomcorerad                   	1053              	0.000000%      	1053              	0.000000%      	3              	351.000000     
+__scfdatamodule_MOD_isscreenkkr_lsms              	597               	0.000000%      	597               	0.000000%      	3              	199.000000     
+__atommodule_MOD_getlocalatomnickname             	3628              	0.000001%      	3628              	0.000001%      	3              	1209.333333    
+__atommodule_MOD_getlocalatomposition             	1330              	0.000000%      	1330              	0.000000%      	3              	443.333333     
+__atommodule_MOD_getmixingparam4evec              	1297              	0.000000%      	1297              	0.000000%      	3              	432.333333     
+__chargedistributionmodule_MOD_getinterstitialelectrondensity	94                	0.000000%      	94                	0.000000%      	3              	31.333333      
+getmixid                                          	480               	0.000000%      	480               	0.000000%      	3              	160.000000     
+__inputmodule_MOD_iskeyexisting                   	9853              	0.000002%      	9853              	0.000002%      	3              	3284.333333    
+__outputmodule_MOD_getstandardoutputlevel_0       	461               	0.000000%      	461               	0.000000%      	3              	153.666667     
+__systemmodule_MOD_getnumvacancies                	351               	0.000000%      	351               	0.000000%      	3              	117.000000     
+__radialgridmodule_MOD_getmaxnumrmesh             	629               	0.000000%      	629               	0.000000%      	3              	209.666667     
+__radialgridmodule_MOD_getradialgridpoint         	12554             	0.000003%      	12554             	0.000003%      	3              	4184.666667    
+__potentialtypemodule_MOD_istestpotential         	846               	0.000000%      	846               	0.000000%      	3              	282.000000     
+__potentialgenerationmodule_MOD_getvdif           	148               	0.000000%      	148               	0.000000%      	3              	49.333333      
+__systemmodule_MOD_getlmaxmax                     	140               	0.000000%      	140               	0.000000%      	3              	46.666667      
+__atommodule_MOD_setlocalevec                     	13194             	0.000003%      	13194             	0.000003%      	3              	4398.000000    
+__scfdatamodule_MOD_isrelativisticvalence         	432               	0.000000%      	432               	0.000000%      	2              	216.000000     
+__neighbormodule_MOD_getnumreceives               	460               	0.000000%      	460               	0.000000%      	2              	230.000000     
+__constrainlocalmomentmodule_MOD_getfieldrms      	725               	0.000000%      	725               	0.000000%      	2              	362.500000     
+__systemmodule_MOD_getlmaxphi0                    	436               	0.000000%      	436               	0.000000%      	2              	218.000000     
+janake2                                           	70537518          	0.017044%      	70537518          	0.017044%      	2              	35268759.000000
+__chargedistributionmodule_MOD_getinterstitialelectrondensityold	72                	0.000000%      	72                	0.000000%      	2              	36.000000      
+__atommodule_MOD_getipff1                         	924               	0.000000%      	924               	0.000000%      	2              	462.000000     
+__exchcorrfunctionalmodule_MOD_calsphexchangecorrelation_s	60726             	0.000015%      	23441             	0.000006%      	2              	11720.500000   
+__neighbormodule_MOD_getnumneighbors              	415               	0.000000%      	415               	0.000000%      	2              	207.500000     
+__singlescatteringdosmodule_MOD_setssp_generic    	10794             	0.000003%      	10794             	0.000003%      	2              	5397.000000    
+__outputmodule_MOD_getdensityprintflag            	412               	0.000000%      	412               	0.000000%      	2              	206.000000     
+__chemelementmodule_MOD_getzval_n                 	796               	0.000000%      	796               	0.000000%      	2              	398.000000     
+__chargedistributionmodule_MOD_getglobalonsiteelectrontableold	872               	0.000000%      	872               	0.000000%      	2              	436.000000     
+__systemvolumemodule_MOD_getsystemvolume          	72                	0.000000%      	72                	0.000000%      	2              	36.000000      
+__scfdatamodule_MOD_isfrozencore                  	32200             	0.000008%      	32200             	0.000008%      	2              	16100.000000   
+__scfdatamodule_MOD_isssirregularsolon            	402               	0.000000%      	402               	0.000000%      	2              	201.000000     
+__polyhedramodule_MOD_getwignerseitzradius        	533               	0.000000%      	533               	0.000000%      	2              	266.500000     
+corslv                                            	198873587         	0.048053%      	55131621          	0.013321%      	2              	27565810.500000
+__corestatesmodule_MOD_getdcd0                    	1936              	0.000000%      	1936              	0.000000%      	2              	968.000000     
+__systemmodule_MOD_getlmaxrho0                    	90                	0.000000%      	90                	0.000000%      	2              	45.000000      
+__contourmodule_MOD_endcontour                    	6931              	0.000002%      	6931              	0.000002%      	2              	3465.500000    
+__smatrixpolesmodule_MOD_issmatrixpolesinitialized	88                	0.000000%      	88                	0.000000%      	2              	44.000000      
+__polyhedramodule_MOD_getnumcorners               	677               	0.000000%      	677               	0.000000%      	2              	338.500000     
+__potentialtypemodule_MOD_ismuffintinfullpotential	984               	0.000000%      	984               	0.000000%      	2              	492.000000     
+__potentialmodule_MOD_setvdif                     	93                	0.000000%      	93                	0.000000%      	2              	46.500000      
+__chemelementmodule_MOD_getzsem_a                 	20552             	0.000005%      	11992             	0.000003%      	2              	5996.000000    
+setpotcompflag                                    	15168             	0.000004%      	14000             	0.000003%      	2              	7000.000000    
+__contourmodule_MOD_initcontour1                  	19715             	0.000005%      	19715             	0.000005%      	2              	9857.500000    
+__exchcorrfunctionalmodule_MOD_getexchcorrenden_v 	705               	0.000000%      	705               	0.000000%      	2              	352.500000     
+__scfdatamodule_MOD_islloyd                       	13231             	0.000003%      	13151             	0.000003%      	2              	6575.500000    
+__inputmodule_MOD_getkeyvalue_real3               	697431            	0.000169%      	21042             	0.000005%      	2              	10521.000000   
+__chargedistributionmodule_MOD_getglobalvpcellelectrontable	87                	0.000000%      	87                	0.000000%      	2              	43.500000      
+lattice_                                          	43070403          	0.010407%      	43070403          	0.010407%      	2              	21535201.500000
+__sinematrixzerosmodule_MOD_issinematrixzerosinitialized	85                	0.000000%      	85                	0.000000%      	2              	42.500000      
+__procmappingmodule_MOD_isatomonmyproc            	250               	0.000000%      	250               	0.000000%      	2              	125.000000     
+__corestatesmodule_MOD_getsemicoree1              	1233              	0.000000%      	1233              	0.000000%      	2              	616.500000     
+__scfdatamodule_MOD_getsinglesitesolvertype       	327               	0.000000%      	327               	0.000000%      	2              	163.500000     
+__corestatesmodule_MOD_getscd0                    	1373              	0.000000%      	1373              	0.000000%      	2              	686.500000     
+__atommodule_MOD_getipfn2                         	3342              	0.000001%      	3342              	0.000001%      	2              	1671.000000    
+__spinrotationmodule_MOD_transformdm3             	845400            	0.000204%      	845400            	0.000204%      	2              	422700.000000  
+__atom2procmodule_MOD_getglobalindex1             	1395              	0.000000%      	1395              	0.000000%      	2              	697.500000     
+__systemmodule_MOD_getradicalplaneratio           	1431              	0.000000%      	1431              	0.000000%      	2              	715.500000     
+__valencedensitymodule_MOD_getsphrho_is           	214591            	0.000052%      	189978            	0.000046%      	2              	94989.000000   
+__radialgridmodule_MOD_getradialgridradius        	2496              	0.000001%      	2496              	0.000001%      	2              	1248.000000    
+__corestatesmodule_MOD_getdeepcoree1              	1504              	0.000000%      	1504              	0.000000%      	2              	752.000000     
+__polyhedramodule_MOD_getcorner                   	1518              	0.000000%      	1518              	0.000000%      	2              	759.000000     
+__atom2procmodule_MOD_getmaxlocalnumatoms         	408               	0.000000%      	408               	0.000000%      	2              	204.000000     
+__neighbormodule_MOD_getsendtable                 	187               	0.000000%      	187               	0.000000%      	2              	93.500000      
+__atommodule_MOD_getmuffintinradius               	184               	0.000000%      	184               	0.000000%      	2              	92.000000      
+__atommodule_MOD_setatomcorerad                   	174               	0.000000%      	174               	0.000000%      	2              	87.000000      
+__scfdatamodule_MOD_isreademesh                   	108               	0.000000%      	108               	0.000000%      	2              	54.000000      
+__sendrecvtmatmodule_MOD_getnumprocwisesends      	111               	0.000000%      	111               	0.000000%      	2              	55.500000      
+__defaultparammodule_MOD_getdefaultvalue_r1       	676389            	0.000163%      	676389            	0.000163%      	2              	338194.500000  
+madsum                                            	668086            	0.000161%      	668086            	0.000161%      	2              	334043.000000  
+__outputmodule_MOD_isoutputatombased              	140               	0.000000%      	140               	0.000000%      	2              	70.000000      
+__scfdatamodule_MOD_isldacorrectionneeded         	133               	0.000000%      	133               	0.000000%      	2              	66.500000      
+__potentialtypemodule_MOD_ismuffintinasapotential 	131               	0.000000%      	131               	0.000000%      	2              	65.500000      
+setupchargelist                                   	172455            	0.000042%      	168991            	0.000041%      	2              	84495.500000   
+__corestatesmodule_MOD_getsemicorestates          	5677              	0.000001%      	5677              	0.000001%      	2              	2838.500000    
+__scfdatamodule_MOD_isembeddedcluster             	95                	0.000000%      	95                	0.000000%      	2              	47.500000      
+__chargedistributionmodule_MOD_getglobalmtsphereelectrontable	71                	0.000000%      	71                	0.000000%      	2              	35.500000      
+__outputmodule_MOD_getpotentialprintflag          	336               	0.000000%      	336               	0.000000%      	2              	168.000000     
+__potentialmodule_MOD_getvdif                     	69                	0.000000%      	69                	0.000000%      	2              	34.500000      
+__exchcorrfunctionalmodule_MOD_calsphexchangecorrelation_v	27258068          	0.006586%      	38990             	0.000009%      	2              	19495.000000   
+__valencedensitymodule_MOD_getbandenergy_2        	1122              	0.000000%      	1122              	0.000000%      	2              	561.000000     
+transformelectrostruct                            	903970            	0.000218%      	54188             	0.000013%      	2              	27094.000000   
+v_plus_minus                                      	50518             	0.000012%      	50518             	0.000012%      	2              	25259.000000   
+__chargedistributionmodule_MOD_getglobalonsiteelectrontable	389               	0.000000%      	389               	0.000000%      	2              	194.500000     
+__systemmodule_MOD_getalloytablesize              	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+callatticesystem                                  	1037              	0.000000%      	1037              	0.000000%      	1              	1037.000000    
+aliasarray2_r                                     	1060              	0.000000%      	1060              	0.000000%      	1              	1060.000000    
+__convergencecheckmodule_MOD_endconvergencecheck  	35                	0.000000%      	35                	0.000000%      	1              	35.000000      
+__valencedensitymodule_MOD_getvalencevpmoment     	1061              	0.000000%      	1061              	0.000000%      	1              	1061.000000    
+__kreinmodule_MOD_setlloydstatus                  	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__procmappingmodule_MOD_getnumesonmyproc          	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__scfdatamodule_MOD_getdosrunid                   	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__scfdatamodule_MOD_getadaptiveintegrationmethod  	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__madelungmodule_MOD_endmadelung                  	1644              	0.000000%      	1644              	0.000000%      	1              	1644.000000    
+__atommodule_MOD_setlocalconstrainfield           	79                	0.000000%      	79                	0.000000%      	1              	79.000000      
+__systemmodule_MOD_setexchangefielddirection      	1648              	0.000000%      	1648              	0.000000%      	1              	1648.000000    
+__systemmodule_MOD_getlmaxkkr0                    	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__corestatesmodule_MOD_getcorevpc1                	915               	0.000000%      	915               	0.000000%      	1              	915.000000     
+__multiscatteringdosmodule_MOD_setmsp_ef          	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__checkpointmodule_MOD_endcheckpoint              	1314              	0.000000%      	1314              	0.000000%      	1              	1314.000000    
+__valencedensitymodule_MOD_getvalencemtmoment     	1366              	0.000000%      	1366              	0.000000%      	1              	1366.000000    
+__systemmodule_MOD_setmomentdirection             	1228              	0.000000%      	1228              	0.000000%      	1              	1228.000000    
+__corestatesmodule_MOD_getdcd2                    	1221              	0.000000%      	1221              	0.000000%      	1              	1221.000000    
+__systemmodule_MOD_setatomenergy                  	1023              	0.000000%      	1023              	0.000000%      	1              	1023.000000    
+u_sigma_u                                         	1736              	0.000000%      	1736              	0.000000%      	1              	1736.000000    
+__systemmodule_MOD_setconstrainfield              	1418              	0.000000%      	1418              	0.000000%      	1              	1418.000000    
+__atommodule_MOD_getmaxlmax                       	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+addspincantstruct_r                               	1623              	0.000000%      	1623              	0.000000%      	1              	1623.000000    
+__latticemodule_MOD_endlattice                    	1107              	0.000000%      	1107              	0.000000%      	1              	1107.000000    
+__systemsymmetrymodule_MOD_getsymmetryflags1      	1456              	0.000000%      	1456              	0.000000%      	1              	1456.000000    
+__valencedensitymodule_MOD_getvalencesphericalmomentdensity	1726              	0.000000%      	1726              	0.000000%      	1              	1726.000000    
+__polyhedramodule_MOD_getinscrsphvolume           	944               	0.000000%      	944               	0.000000%      	1              	944.000000     
+__corestatesmodule_MOD_getscd2                    	1463              	0.000000%      	1463              	0.000000%      	1              	1463.000000    
+__atommodule_MOD_setlocalmoment_v                 	1106              	0.000000%      	1106              	0.000000%      	1              	1106.000000    
+__valencedensitymodule_MOD_setvalencevpcharge     	940               	0.000000%      	940               	0.000000%      	1              	940.000000     
+__systemmodule_MOD_setrmsinfo                     	932               	0.000000%      	932               	0.000000%      	1              	932.000000     
+__checkpointmodule_MOD_initcheckpoint             	55                	0.000000%      	55                	0.000000%      	1              	55.000000      
+__scfdatamodule_MOD_isfittedchargeden             	57                	0.000000%      	57                	0.000000%      	1              	57.000000      
+__kreinmodule_MOD_setlloydq1                      	230               	0.000000%      	230               	0.000000%      	1              	230.000000     
+__systemmodule_MOD_getatomicnumber_all            	281               	0.000000%      	281               	0.000000%      	1              	281.000000     
+__atommodule_MOD_getrholmax                       	285               	0.000000%      	285               	0.000000%      	1              	285.000000     
+__potentialmodule_MOD_getpotlmax                  	288               	0.000000%      	288               	0.000000%      	1              	288.000000     
+__sendrecvtmatmodule_MOD_getnonlocalneighbors     	294               	0.000000%      	294               	0.000000%      	1              	294.000000     
+__sendrecvtmatmodule_MOD_getnumnonlocalneighbors  	294               	0.000000%      	294               	0.000000%      	1              	294.000000     
+__sendrecvtmatmodule_MOD_getnumprocwisereceives   	57                	0.000000%      	57                	0.000000%      	1              	57.000000      
+__totalenergymodule_MOD_getenergyperatom          	308               	0.000000%      	308               	0.000000%      	1              	308.000000     
+__atommodule_MOD_getopff0                         	171               	0.000000%      	171               	0.000000%      	1              	171.000000     
+__procmappingmodule_MOD_getnumredundantesonmyproc 	323               	0.000000%      	323               	0.000000%      	1              	323.000000     
+__scfdatamodule_MOD_ischargemixing                	324               	0.000000%      	324               	0.000000%      	1              	324.000000     
+__scfdatamodule_MOD_isdgamixing                   	55                	0.000000%      	55                	0.000000%      	1              	55.000000      
+__systemmodule_MOD_getmomentdirectionmixingparam  	325               	0.000000%      	325               	0.000000%      	1              	325.000000     
+__scfdatamodule_MOD_isnonrelativisticvalence      	54                	0.000000%      	54                	0.000000%      	1              	54.000000      
+__atommodule_MOD_getmixingparam4pot               	335               	0.000000%      	335               	0.000000%      	1              	335.000000     
+__potentialtypemodule_MOD_issphericalpotential    	336               	0.000000%      	336               	0.000000%      	1              	336.000000     
+__systemmodule_MOD_getatomtype_1                  	54                	0.000000%      	54                	0.000000%      	1              	54.000000      
+__neighbormodule_MOD_getmaxreceives               	98                	0.000000%      	98                	0.000000%      	1              	98.000000      
+__sendrecvtmatmodule_MOD_getprocwisetargetprocs   	84                	0.000000%      	84                	0.000000%      	1              	84.000000      
+__systemmodule_MOD_setlatticeconstant             	73                	0.000000%      	73                	0.000000%      	1              	73.000000      
+__atommodule_MOD_getstepfunclmax                  	92                	0.000000%      	92                	0.000000%      	1              	92.000000      
+__scfdatamodule_MOD_isefiterateon                 	95                	0.000000%      	95                	0.000000%      	1              	95.000000      
+__atommodule_MOD_setmuffintinradius               	95                	0.000000%      	95                	0.000000%      	1              	95.000000      
+__atommodule_MOD_getpotlmax                       	98                	0.000000%      	98                	0.000000%      	1              	98.000000      
+__neighbormodule_MOD_setmaxreceives               	68                	0.000000%      	68                	0.000000%      	1              	68.000000      
+__atommodule_MOD_getmixingparam4charge            	68                	0.000000%      	68                	0.000000%      	1              	68.000000      
+getkmaxintern                                     	53                	0.000000%      	53                	0.000000%      	1              	53.000000      
+__atommodule_MOD_getkkrlmax                       	101               	0.000000%      	101               	0.000000%      	1              	101.000000     
+__systemmodule_MOD_setsiteliz                     	127               	0.000000%      	127               	0.000000%      	1              	127.000000     
+__systemmodule_MOD_getatomposition_all            	64                	0.000000%      	64                	0.000000%      	1              	64.000000      
+__corestatesmodule_MOD_getcoredensityrmeshsize    	59                	0.000000%      	59                	0.000000%      	1              	59.000000      
+__potentialmodule_MOD_gettruncpotlmax             	59                	0.000000%      	59                	0.000000%      	1              	59.000000      
+__scfdatamodule_MOD_getlmaxpotsolver              	58                	0.000000%      	58                	0.000000%      	1              	58.000000      
+__ldacorrectionmodule_MOD_islcn                   	165               	0.000000%      	165               	0.000000%      	1              	165.000000     
+__scfdatamodule_MOD_isnonrelativisticcore         	58                	0.000000%      	58                	0.000000%      	1              	58.000000      
+__scfdatamodule_MOD_getcantedmomenttorquefactor   	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__scfdatamodule_MOD_issimplemixing                	39                	0.000000%      	39                	0.000000%      	1              	39.000000      
+__potentialgenerationmodule_MOD_setvdif           	38                	0.000000%      	38                	0.000000%      	1              	38.000000      
+__polyhedramodule_MOD_getboxvolume                	493               	0.000000%      	493               	0.000000%      	1              	493.000000     
+__atommodule_MOD_getipff0                         	535               	0.000000%      	535               	0.000000%      	1              	535.000000     
+__potentialmodule_MOD_setpotef                    	38                	0.000000%      	38                	0.000000%      	1              	38.000000      
+__systemmodule_MOD_getscalingfactor               	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__scfdatamodule_MOD_getsinglesitesolvermethod     	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__potentialmodule_MOD_getpotef                    	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__systemmodule_MOD_getmomentdirection_one         	645               	0.000000%      	645               	0.000000%      	1              	645.000000     
+__scfdatamodule_MOD_getmixingparamforfermienergy  	39                	0.000000%      	39                	0.000000%      	1              	39.000000      
+__systemmodule_MOD_getadditionalelectrons         	36                	0.000000%      	36                	0.000000%      	1              	36.000000      
+__valencedensitymodule_MOD_getvalencevpcharge     	664               	0.000000%      	664               	0.000000%      	1              	664.000000     
+__contourmodule_MOD_geteall                       	683               	0.000000%      	683               	0.000000%      	1              	683.000000     
+__kreinmodule_MOD_endkrein                        	711               	0.000000%      	711               	0.000000%      	1              	711.000000     
+__atommodule_MOD_getradialgriddata                	715               	0.000000%      	715               	0.000000%      	1              	715.000000     
+__systemmodule_MOD_getconstrainfield_one          	771               	0.000000%      	771               	0.000000%      	1              	771.000000     
+__valencedensitymodule_MOD_getexchangeenergy      	793               	0.000000%      	793               	0.000000%      	1              	793.000000     
+genkbravais                                       	854               	0.000000%      	854               	0.000000%      	1              	854.000000     
+__atommodule_MOD_gettruncpotlmax                  	378               	0.000000%      	378               	0.000000%      	1              	378.000000     
+__atommodule_MOD_getlizlmax                       	336               	0.000000%      	336               	0.000000%      	1              	336.000000     
+__sendrecvtmatmodule_MOD_getprocwisesourceprocs   	345               	0.000000%      	345               	0.000000%      	1              	345.000000     
+__kreinmodule_MOD_islloydon                       	52                	0.000000%      	52                	0.000000%      	1              	52.000000      
+__neighbormodule_MOD_getrecvtable                 	348               	0.000000%      	348               	0.000000%      	1              	348.000000     
+__atom2procmodule_MOD_getlocalnumatoms1           	353               	0.000000%      	353               	0.000000%      	1              	353.000000     
+__atommodule_MOD_getphilmax                       	364               	0.000000%      	364               	0.000000%      	1              	364.000000     
+__chargedistributionmodule_MOD_getglobalmtsphereelectrontableold	366               	0.000000%      	366               	0.000000%      	1              	366.000000     
+__sendrecvtmatmodule_MOD_getmaxneighbors          	367               	0.000000%      	367               	0.000000%      	1              	367.000000     
+__stepfunctionmodule_MOD_getstepfunction3         	855               	0.000000%      	855               	0.000000%      	1              	855.000000     
+__contourmodule_MOD_getnes                        	379               	0.000000%      	379               	0.000000%      	1              	379.000000     
+__stepfunctionmodule_MOD_getnumgaussrs            	405               	0.000000%      	405               	0.000000%      	1              	405.000000     
+__potentialtypemodule_MOD_endpotentialtype        	51                	0.000000%      	51                	0.000000%      	1              	51.000000      
+__singlescatteringdosmodule_MOD_setssp_ef         	50                	0.000000%      	50                	0.000000%      	1              	50.000000      
+__contourmodule_MOD_getewall                      	409               	0.000000%      	409               	0.000000%      	1              	409.000000     
+__scfdatamodule_MOD_getlmaxsolution               	49                	0.000000%      	49                	0.000000%      	1              	49.000000      
+__scfdatamodule_MOD_isbroydenmixing               	39                	0.000000%      	39                	0.000000%      	1              	39.000000      
+__uniform3dgridmodule_MOD_isuniform3dgridinitialized	39                	0.000000%      	39                	0.000000%      	1              	39.000000      
+__radialgridmodule_MOD_genradialgrid              	221615            	0.000054%      	218129            	0.000053%      	1              	218129.000000  
+__sssolvermodule_MOD_endsssolver                  	145827            	0.000035%      	129674            	0.000031%      	1              	129674.000000  
+calzeropotential_mt                               	257292            	0.000062%      	137619            	0.000033%      	1              	137619.000000  
+getu0                                             	218320            	0.000053%      	151127            	0.000037%      	1              	151127.000000  
+__systemvolumemodule_MOD_initsystemvolume         	1014384058        	0.245103%      	157364            	0.000038%      	1              	157364.000000  
+updatemixrealvalues_                              	165067            	0.000040%      	161576            	0.000039%      	1              	161576.000000  
+loaddefaultkeyvalues                              	165358            	0.000040%      	165358            	0.000040%      	1              	165358.000000  
+genlattice                                        	44017879          	0.010636%      	181985            	0.000044%      	1              	181985.000000  
+setupgaugrid                                      	184622            	0.000045%      	184622            	0.000045%      	1              	184622.000000  
+__constrainlocalmomentmodule_MOD_calconstrainlm   	665146            	0.000161%      	186854            	0.000045%      	1              	186854.000000  
+__smatrixpolesmodule_MOD_initsmatrixpoles         	635238            	0.000153%      	188956            	0.000046%      	1              	188956.000000  
+__mssolvermodule_MOD_initmssolver                 	8454353           	0.002043%      	189104            	0.000046%      	1              	189104.000000  
+__exchcorrfunctionalmodule_MOD_initexchcorrfunctional	119313            	0.000029%      	119313            	0.000029%      	1              	119313.000000  
+__chargedistributionmodule_MOD_initchargedistribution	4481535           	0.001083%      	221337            	0.000053%      	1              	221337.000000  
+__outputmodule_MOD_initoutput                     	1229993           	0.000297%      	228709            	0.000055%      	1              	228709.000000  
+addelectrostruct_r                                	269495            	0.000065%      	267872            	0.000065%      	1              	267872.000000  
+calbroydenmixing                                  	1342000           	0.000324%      	278149            	0.000067%      	1              	278149.000000  
+setupmixrealarraylist_                            	305618            	0.000074%      	279611            	0.000068%      	1              	279611.000000  
+updateglobalcorestatestable                       	364735            	0.000088%      	280328            	0.000068%      	1              	280328.000000  
+getparea                                          	310610            	0.000075%      	310610            	0.000075%      	1              	310610.000000  
+setuprecvtable                                    	321810            	0.000078%      	318072            	0.000077%      	1              	318072.000000  
+calintegrateddos                                  	378435455496      	91.440229%     	321340            	0.000078%      	1              	321340.000000  
+__gfmethodmodule_MOD_calvalencestates             	378774529825      	91.522158%     	325522            	0.000079%      	1              	325522.000000  
+__sinematrixzerosmodule_MOD_initsinematrixzeros   	81806             	0.000020%      	81711             	0.000020%      	1              	81711.000000   
+__sinematrixzerosmodule_MOD_endsinematrixzeros    	57367             	0.000014%      	57367             	0.000014%      	1              	57367.000000   
+averageelectrostruct                              	706068            	0.000171%      	58370             	0.000014%      	1              	58370.000000   
+initparameters                                    	70811             	0.000017%      	59983             	0.000014%      	1              	59983.000000   
+__totalenergymodule_MOD_computeenergyfunctional   	87355436          	0.021107%      	61291             	0.000015%      	1              	61291.000000   
+__inputmodule_MOD_readinputdata                   	7509460           	0.001814%      	65719             	0.000016%      	1              	65719.000000   
+initchemelement                                   	69462             	0.000017%      	69462             	0.000017%      	1              	69462.000000   
+__valencedensitymodule_MOD_updatevalenceevec      	98811             	0.000024%      	73438             	0.000018%      	1              	73438.000000   
+__constrainlocalmomentmodule_MOD_updateconstrainlm	560120            	0.000135%      	76608             	0.000019%      	1              	76608.000000   
+__gfmethodmodule_MOD_endgfmethod                  	240334            	0.000058%      	80030             	0.000019%      	1              	80030.000000   
+__smatrixpolesmodule_MOD_endsmatrixpoles          	80302             	0.000019%      	80302             	0.000019%      	1              	80302.000000   
+__potentialmodule_MOD_initpotential               	464583            	0.000112%      	336494            	0.000081%      	1              	336494.000000  
+__mssolvermodule_MOD_endmssolver                  	7031151           	0.001699%      	85499             	0.000021%      	1              	85499.000000   
+__systemsymmetrymodule_MOD_calsymmetryflags       	1381392           	0.000334%      	87242             	0.000021%      	1              	87242.000000   
+readpositiondata_                                 	111317941         	0.026897%      	87301             	0.000021%      	1              	87301.000000   
+__valencedensitymodule_MOD_updatefermienergy      	1446425           	0.000349%      	91474             	0.000022%      	1              	91474.000000   
+__potentialmodule_MOD_readpotential               	96047736          	0.023208%      	109189            	0.000026%      	1              	109189.000000  
+__neighbormodule_MOD_setneighbor                  	432153            	0.000104%      	110267            	0.000027%      	1              	110267.000000  
+constructnewpotential                             	110412            	0.000027%      	110412            	0.000027%      	1              	110412.000000  
+putpotg_                                          	17332432          	0.004188%      	110560            	0.000027%      	1              	110560.000000  
+__chargedensitymodule_MOD_updatetotaldensity      	117442            	0.000028%      	113892            	0.000028%      	1              	113892.000000  
+printscfresults_                                  	4480732           	0.001083%      	115314            	0.000028%      	1              	115314.000000  
+setupcellbound                                    	1009195644        	0.243849%      	9891012           	0.002390%      	1              	9891012.000000 
+caltruncsymmetryflags                             	1245726           	0.000301%      	1244871           	0.000301%      	1              	1244871.000000 
+MPI_Cart_create                                   	1461718           	0.000353%      	1461718           	0.000353%      	1              	1461718.000000 
+__corestatesmodule_MOD_readcorestates             	7304972           	0.001765%      	2449415           	0.000592%      	1              	2449415.000000 
+buildsendtable_                                   	2865738           	0.000692%      	2852231           	0.000689%      	1              	2852231.000000 
+setuppolyhedron                                   	3377900           	0.000816%      	3173385           	0.000767%      	1              	3173385.000000 
+readformatteddata                                 	4792003           	0.001158%      	4596996           	0.001111%      	1              	4596996.000000 
+calscalingfactor                                  	609437155         	0.147256%      	4607303           	0.001113%      	1              	4607303.000000 
+calmultiplescatteringidos                         	366882360990      	88.648689%     	5796972           	0.001401%      	1              	5796972.000000 
+__clustermatrixmodule_MOD_endclustermatrix        	6945555           	0.001678%      	6903202           	0.001668%      	1              	6903202.000000 
+__clustermatrixmodule_MOD_initclustermatrix       	8193938           	0.001980%      	7218314           	0.001744%      	1              	7218314.000000 
+calsphpotential                                   	22241245          	0.005374%      	8431527           	0.002037%      	1              	8431527.000000 
+__gfmethodmodule_MOD_initgfmethod                 	2243954           	0.000542%      	1224809           	0.000296%      	1              	1224809.000000 
+__corestatesmodule_MOD_calcorestates              	228781579         	0.055280%      	29404641          	0.007105%      	1              	29404641.000000
+setuplizneighbor_                                 	70130994          	0.016946%      	65733592          	0.015883%      	1              	65733592.000000
+readformatteddata                                 	95664583          	0.023115%      	95459037          	0.023065%      	1              	95459037.000000
+allocateirrspace                                  	102002100         	0.024646%      	101999635         	0.024646%      	1              	101999635.000000
+__atommodule_MOD_initatom                         	109984673         	0.026575%      	106061344         	0.025627%      	1              	106061344.000000
+__sssolvermodule_MOD_initsssolver                 	317997181         	0.076837%      	111425604         	0.026923%      	1              	111425604.000000
+mst2                                              	413860984789      	99.999994%     	1509543563        	0.364747%      	1              	1509543563.000000
+MPI_Init                                          	4221662079        	1.020068%      	4221662079        	1.020068%      	1              	4221662079.000000
+setupstepfunction                                 	16088280332       	3.887363%      	7203322591        	1.740517%      	1              	7203322591.000000
+MPI_Finalize                                      	10579534755       	2.556301%      	10526128672       	2.543397%      	1              	10526128672.000000
+__scfdatamodule_MOD_initscfdata                   	16687027          	0.004032%      	533019            	0.000129%      	1              	533019.000000  
+computecriticalpoints                             	655138            	0.000158%      	339419            	0.000082%      	1              	339419.000000  
+geticp                                            	355531            	0.000086%      	355531            	0.000086%      	1              	355531.000000  
+__systemmodule_MOD_initsystem                     	142087041         	0.034332%      	393206            	0.000095%      	1              	393206.000000  
+__potentialgenerationmodule_MOD_computenewpotential	23072727          	0.005575%      	417558            	0.000101%      	1              	417558.000000  
+__convergencecheckmodule_MOD_checkconvergence     	15762027          	0.003809%      	421076            	0.000102%      	1              	421076.000000  
+__potentialgenerationmodule_MOD_initpotentialgeneration	552312            	0.000133%      	426058            	0.000103%      	1              	426058.000000  
+allocateexchsssmat                                	436279            	0.000105%      	433991            	0.000105%      	1              	433991.000000  
+__corestatesmodule_MOD_initcorestates             	1227902           	0.000297%      	435552            	0.000105%      	1              	435552.000000  
+__valencedensitymodule_MOD_initvalencedensity     	457133            	0.000110%      	455234            	0.000110%      	1              	455234.000000  
+averagecfuncxproc_                                	484458            	0.000117%      	484458            	0.000117%      	1              	484458.000000  
+updatepotential_                                  	503429            	0.000122%      	55124             	0.000013%      	1              	55124.000000   
+computesphericaltotalenergy                       	87116990          	0.021050%      	640764            	0.000155%      	1              	640764.000000  
+writeunformatteddata                              	18743087          	0.004529%      	800872            	0.000194%      	1              	800872.000000  
+setupicfmsgbuf_                                   	822055            	0.000199%      	821614            	0.000199%      	1              	821614.000000  
+__chargedistributionmodule_MOD_updatechargedistribution	9536096           	0.002304%      	831267            	0.000201%      	1              	831267.000000  
+__chargedensitymodule_MOD_initchargedensity       	868700            	0.000210%      	852812            	0.000206%      	1              	852812.000000  
+__procmappingmodule_MOD_createparallelization     	3979185           	0.000961%      	862069            	0.000208%      	1              	862069.000000  
+__chargedensitymodule_MOD_constructchargedensity  	50694646          	0.012249%      	879520            	0.000213%      	1              	879520.000000  
+genfactors                                        	912153            	0.000220%      	912153            	0.000220%      	1              	912153.000000  
+setbroydenspace                                   	1043743           	0.000252%      	1043743           	0.000252%      	1              	1043743.000000 
+__valencedensitymodule_MOD_updatevalencedensity   	1122404           	0.000271%      	1119555           	0.000271%      	1              	1119555.000000 
+__chemelementmodule_MOD_getzval_a                 	11097             	0.000003%      	6901              	0.000002%      	1              	6901.000000    
+__constrainlocalmomentmodule_MOD_endconstrainlm   	4865              	0.000001%      	4865              	0.000001%      	1              	4865.000000    
+setupprocdim                                      	4909              	0.000001%      	4909              	0.000001%      	1              	4909.000000    
+__adaptintegrationmodule_MOD_endadaptintegration  	5235              	0.000001%      	5235              	0.000001%      	1              	5235.000000    
+__sendrecvtmatmodule_MOD_endsendrecvtmat          	5335              	0.000001%      	5335              	0.000001%      	1              	5335.000000    
+sumesval_r                                        	5495              	0.000001%      	5495              	0.000001%      	1              	5495.000000    
+__mixingmodule_MOD_initmixing                     	6060              	0.000001%      	6060              	0.000001%      	1              	6060.000000    
+__spinrotationmodule_MOD_endspinrotation          	6143              	0.000001%      	6143              	0.000001%      	1              	6143.000000    
+__potentialtypemodule_MOD_initpotentialtype       	17371             	0.000004%      	6593              	0.000002%      	1              	6593.000000    
+__polyhedramodule_MOD_initpolyhedra               	6793              	0.000002%      	6793              	0.000002%      	1              	6793.000000    
+__mixingmodule_MOD_mixvalues                      	1348822           	0.000326%      	6822              	0.000002%      	1              	6822.000000    
+__procmappingmodule_MOD_initprocmapping_1         	7031              	0.000002%      	6824              	0.000002%      	1              	6824.000000    
+__forcemodule_MOD_endforce                        	4744              	0.000001%      	4744              	0.000001%      	1              	4744.000000    
+__inputmodule_MOD_initinput                       	199672            	0.000048%      	7176              	0.000002%      	1              	7176.000000    
+__valencedensitymodule_MOD_updatevalenceenergy    	14747             	0.000004%      	7326              	0.000002%      	1              	7326.000000    
+__atommodule_MOD_endatom                          	8823              	0.000002%      	8823              	0.000002%      	1              	8823.000000    
+__systemmodule_MOD_writemomentdirectiondata       	40679642          	0.009829%      	9477              	0.000002%      	1              	9477.000000    
+__systemvolumemodule_MOD_endsystemvolume          	25836             	0.000006%      	9586              	0.000002%      	1              	9586.000000    
+__chargedistributionmodule_MOD_endchargedistribution	9673              	0.000002%      	9673              	0.000002%      	1              	9673.000000    
+__contourmodule_MOD_setupcontour                  	194440            	0.000047%      	9818              	0.000002%      	1              	9818.000000    
+genfactors                                        	9825              	0.000002%      	9825              	0.000002%      	1              	9825.000000    
+__rspacestrconstmodule_MOD_endrspacestrconst      	9955              	0.000002%      	9955              	0.000002%      	1              	9955.000000    
+__valencedensitymodule_MOD_updatevalencecharge    	14979             	0.000004%      	10129             	0.000002%      	1              	10129.000000   
+MPI_Cart_coords                                   	3228              	0.000001%      	3228              	0.000001%      	1              	3228.000000    
+__atom2procmodule_MOD_endatom2proc                	2340              	0.000001%      	2340              	0.000001%      	1              	2340.000000    
+__valencedensitymodule_MOD_getvmd3                	2544              	0.000001%      	2544              	0.000001%      	1              	2544.000000    
+__valencedensitymodule_MOD_setvalencevpmomentsize 	2610              	0.000001%      	2610              	0.000001%      	1              	2610.000000    
+__valencedensitymodule_MOD_getvalencesphericalelectrondensity	2669              	0.000001%      	2669              	0.000001%      	1              	2669.000000    
+__totalenergymodule_MOD_endtotalenergy            	2738              	0.000001%      	2738              	0.000001%      	1              	2738.000000    
+__radialgridmodule_MOD_initradialgrid             	3027              	0.000001%      	3027              	0.000001%      	1              	3027.000000    
+__systemmodule_MOD_resetsystemmovie               	3063              	0.000001%      	3063              	0.000001%      	1              	3063.000000    
+__exchcorrfunctionalmodule_MOD_ishartreeapproximation	3106              	0.000001%      	3106              	0.000001%      	1              	3106.000000    
+__defaultparammodule_MOD_enddefaultparam          	3176              	0.000001%      	3176              	0.000001%      	1              	3176.000000    
+__valencedensitymodule_MOD_getved2                	3182              	0.000001%      	3182              	0.000001%      	1              	3182.000000    
+__mixingmodule_MOD_setbroydenmixing               	10692             	0.000003%      	10635             	0.000003%      	1              	10635.000000   
+__adaptintegrationmodule_MOD_initadaptintegration 	3242              	0.000001%      	3242              	0.000001%      	1              	3242.000000    
+set_b_basis                                       	3275              	0.000001%      	3275              	0.000001%      	1              	3275.000000    
+zeropt                                            	3639              	0.000001%      	3639              	0.000001%      	1              	3639.000000    
+__multiscatteringdosmodule_MOD_setmsp_generic     	3705              	0.000001%      	3705              	0.000001%      	1              	3705.000000    
+__checkpointmodule_MOD_insertstoppoint            	3884              	0.000001%      	3884              	0.000001%      	1              	3884.000000    
+__procmappingmodule_MOD_endprocmapping            	4182              	0.000001%      	4182              	0.000001%      	1              	4182.000000    
+__systemsymmetrymodule_MOD_endsystemsymmetry      	4254              	0.000001%      	4254              	0.000001%      	1              	4254.000000    
+__radialgridmodule_MOD_endradialgrid              	4462              	0.000001%      	4462              	0.000001%      	1              	4462.000000    
+getsizeof                                         	4583              	0.000001%      	4583              	0.000001%      	1              	4583.000000    
+__inputmodule_MOD_getkeyvalue_int2                	4663              	0.000001%      	4663              	0.000001%      	1              	4663.000000    
+__stepfunctionmodule_MOD_initstepfunction1        	16088319137       	3.887373%      	38805             	0.000009%      	1              	38805.000000   
+__matrixblockinversionmodule_MOD_endmatrixblockinv	21693             	0.000005%      	21693             	0.000005%      	1              	21693.000000   
+__totalenergymodule_MOD_inittotalenergy           	24319             	0.000006%      	24156             	0.000006%      	1              	24156.000000   
+__neighbormodule_MOD_endneighbor                  	24427             	0.000006%      	24427             	0.000006%      	1              	24427.000000   
+main                                              	413861011003      	100.000000%    	26214             	0.000006%      	1              	26214.000000   
+__defaultparammodule_MOD_initdefaultparam         	192496            	0.000047%      	27138             	0.000007%      	1              	27138.000000   
+__corestatesmodule_MOD_endcorestates              	27777             	0.000007%      	27777             	0.000007%      	1              	27777.000000   
+__stepfunctionmodule_MOD_endstepfunction          	31060             	0.000008%      	31060             	0.000008%      	1              	31060.000000   
+mufind                                            	134184            	0.000032%      	34730             	0.000008%      	1              	34730.000000   
+__constrainlocalmomentmodule_MOD_initconstrainlm  	47636             	0.000012%      	34877             	0.000008%      	1              	34877.000000   
+__potentialgenerationmodule_MOD_endpotentialgeneration	49198             	0.000012%      	38562             	0.000009%      	1              	38562.000000   
+__neighbormodule_MOD_initneighbor                 	21361             	0.000005%      	21361             	0.000005%      	1              	21361.000000   
+readmomentdirectiondata_                          	29319977          	0.007084%      	39601             	0.000010%      	1              	39601.000000   
+__matrixblockinversionmodule_MOD_initmatrixblockinv	40899             	0.000010%      	40899             	0.000010%      	1              	40899.000000   
+setupmixingscheme_                                	52662             	0.000013%      	41429             	0.000010%      	1              	41429.000000   
+__polyhedramodule_MOD_genpoly2                    	1013282037        	0.244836%      	42352             	0.000010%      	1              	42352.000000   
+caldensity                                        	2740256           	0.000662%      	42829             	0.000010%      	1              	42829.000000   
+__potentialmodule_MOD_writepotential              	29858618          	0.007215%      	44263             	0.000011%      	1              	44263.000000   
+calmadsymmetryflags                               	48424             	0.000012%      	46523             	0.000011%      	1              	46523.000000   
+__madelungmodule_MOD_initmadelung                 	654183223         	0.158068%      	46577             	0.000011%      	1              	46577.000000   
+__atom2procmodule_MOD_initatom2proc               	260919            	0.000063%      	48670             	0.000012%      	1              	48670.000000   
+__sendrecvtmatmodule_MOD_initsendrecvtmat         	52506             	0.000013%      	51758             	0.000013%      	1              	51758.000000   
+__systemsymmetrymodule_MOD_initsystemsymmetry     	14150             	0.000003%      	14150             	0.000003%      	1              	14150.000000   
+cleanexchsssmat                                   	10705             	0.000003%      	10705             	0.000003%      	1              	10705.000000   
+__publicparamdefinitionsmodule_MOD_checkparameter 	10778             	0.000003%      	10778             	0.000003%      	1              	10778.000000   
+__neighbormodule_MOD_setsendtable                 	11436             	0.000003%      	11352             	0.000003%      	1              	11352.000000   
+__spinrotationmodule_MOD_initspinrotation         	11702             	0.000003%      	11702             	0.000003%      	1              	11702.000000   
+__valencedensitymodule_MOD_endvalencedensity      	11978             	0.000003%      	11978             	0.000003%      	1              	11978.000000   
+__convergencecheckmodule_MOD_initconvergencecheck 	13347             	0.000003%      	13144             	0.000003%      	1              	13144.000000   
+madewd                                            	681612            	0.000165%      	13526             	0.000003%      	1              	13526.000000   
+__chargedensitymodule_MOD_endchargedensity        	13815             	0.000003%      	13815             	0.000003%      	1              	13815.000000   
+__spinrotationmodule_MOD_calspinrotation          	15670             	0.000004%      	13934             	0.000003%      	1              	13934.000000   
+__systemmodule_MOD_endsystem                      	14052             	0.000003%      	14052             	0.000003%      	1              	14052.000000   
+__outputmodule_MOD_endoutput                      	2171              	0.000001%      	2171              	0.000001%      	1              	2171.000000    
+__potentialmodule_MOD_endpotential                	14152             	0.000003%      	14152             	0.000003%      	1              	14152.000000   
+__atommodule_MOD_updatelocalexchangefielddir      	17277             	0.000004%      	15233             	0.000004%      	1              	15233.000000   
+__latticemodule_MOD_initlatt0                     	17466             	0.000004%      	15575             	0.000004%      	1              	15575.000000   
+deallocateirrspace                                	16153             	0.000004%      	16153             	0.000004%      	1              	16153.000000   
+__inputmodule_MOD_endinput                        	19354             	0.000005%      	16178             	0.000004%      	1              	16178.000000   
+__polyhedramodule_MOD_endpolyhedra                	16250             	0.000004%      	16250             	0.000004%      	1              	16250.000000   
+__exchcorrfunctionalmodule_MOD_endexchcorrfunctional	22132             	0.000005%      	19026             	0.000005%      	1              	19026.000000   
+setworkingspace                                   	19685             	0.000005%      	19685             	0.000005%      	1              	19685.000000   
+__forcemodule_MOD_initforce                       	20045             	0.000005%      	19731             	0.000005%      	1              	19731.000000   
+__rspacestrconstmodule_MOD_initrspacestrconst     	932633            	0.000225%      	20480             	0.000005%      	1              	20480.000000   
+
+
+
+***************************CPU时钟周期数****************************
+[0times] Test CPU Clock Cycle:	 2114826230
+[1times] Test CPU Clock Cycle:	 2121005013
+[2times] Test CPU Clock Cycle:	 2120990328
+[3times] Test CPU Clock Cycle:	 2120988101
+[4times] Test CPU Clock Cycle:	 2121027113
+[5times] Test CPU Clock Cycle:	 2120975591
+[6times] Test CPU Clock Cycle:	 2121015881
+[7times] Test CPU Clock Cycle:	 2121005570
+[8times] Test CPU Clock Cycle:	 2120992669
+[9times] Test CPU Clock Cycle:	 2120986682
+
+Avarage CPU Clock Cycle is 2120381317
+
+
+
+***************************函数文件路径*****************************
+MPI_Wtime                                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:2432
+sigma                                             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3092
+__rspacestrconstmodule_MOD_getstrconstmatrix      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:193
+aliasarray2_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341
+chkpnt                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1984
+intphi                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2952
+__systemmodule_MOD_getatomposition_one            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1295
+__stepfunctionmodule_MOD_getstepfunction1         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:746
+__wrap_zcopy_                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:12
+__wrap_zgemm_                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:7
+ldafunctional                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1318
+__ldacorrectionmodule_MOD_islcn_al                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:292
+chkedge                                           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2027
+calgammafunc                                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:1171
+precor4                                           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:2699
+richnk                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4006
+numlat_                                           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/lattice.F90:2
+aliasarray2_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341
+solveradeqn4reg                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:2244
+solveradeqn4irr                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6485
+__polyhedramodule_MOD_getnumedges                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2516
+__systemmodule_MOD_getatomicnumber_one            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1254
+getrscut                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:677
+getkncut                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:762
+__ldacorrectionmodule_MOD_islcn_a                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:272
+__systemsymmetrymodule_MOD_getsymmetryflags0      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:420
+__sssolvermodule_MOD_getregsolution               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5962
+__sssolvermodule_MOD_getscatteringmatrix          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5886
+__atom2procmodule_MOD_getatom2procingroup         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:189
+__radialgridmodule_MOD_getgrid                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1249
+__potentialtypemodule_MOD_isasapotential          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:149
+aliasarray2_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341
+__wrap_zgetrf_                                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:18
+__wrap_zgetrs_                                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/wrapper_f.c:26
+__stepfunctionmodule_MOD_getvolumeintegration1    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:1256
+aliasarray2_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341
+aliasarray2_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341
+__atommodule_MOD_getlocalnumspecies               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1291
+__polyhedramodule_MOD_getnumplanes                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2130
+__polyhedramodule_MOD_getplane                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2535
+cleanup                                           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2876
+__systemmodule_MOD_getlmaxkkr1                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1795
+__atom2procmodule_MOD_getlocalindex               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:208
+__chemelementmodule_MOD_getztot                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1706
+aliasarray2_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:341
+chkbnd                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1513
+__inputmodule_MOD_getkeyvalue_int0                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:979
+MPI_Barrier                                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1106
+MPI_Iprobe                                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:911
+setupintwkspace                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3875
+__scfdatamodule_MOD_islsms                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:824
+__spinrotationmodule_MOD_transformdm1             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:375
+__scfdatamodule_MOD_isinterstitialelectronpolarized	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1488
+__polyhedramodule_MOD_getinscrsphradius           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2279
+initglobalvariables                               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1123
+__potentialmodule_MOD_getpoten_l1                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:794
+__sssolvermodule_MOD_solvesinglescattering        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1293
+__potentialmodule_MOD_ispotcomponentzero          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:672
+calintegrationtor                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3783
+isirrsoltypevalid                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1272
+gettarget_3c                                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:1398
+__sssolvermodule_MOD_computegf0                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6829
+computeirrsol                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6331
+adjustenergy_c_                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/adjustEnergy.F90:36
+__spinrotationmodule_MOD_rotateltog               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:126
+__sssolvermodule_MOD_getgreenfunction             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:5072
+__atom2procmodule_MOD_getglobalindex0             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:227
+__polyhedramodule_MOD_getoutscrsphradius          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2299
+stepyll                                           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2586
+filter_edge                                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1363
+intpl0                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2904
+__polyhedramodule_MOD_getedge                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2579
+calsig                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:3124
+caltnode                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2755
+MPI_Allreduce                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1026
+__sssolvermodule_MOD_getfreeelectrondos           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6155
+__defaultparammodule_MOD_getdefaultvalue_i0       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:167
+__atommodule_MOD_getlocalevec                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1130
+__polyhedramodule_MOD_isexternalpoint             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2601
+outws                                             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3753
+invals                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3111
+__neighbormodule_MOD_getneighbor                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:157
+__inputmodule_MOD_getkeyvalue_real0               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1212
+MPI_Wait                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:718
+MPI_Isend                                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:313
+__chemelementmodule_MOD_getnumcorestates_a        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1940
+aliasarray3_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357
+aliasarray3_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357
+__matrixblockinversionmodule_MOD_invertmatrixblock	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:314
+calelectrostruct                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4278
+__clustermatrixmodule_MOD_calclustermatrix        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:667
+__mssolvermodule_MOD_getmsgreenfunction           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:661
+__checkpointmodule_MOD_isstoppoint                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:194
+__spinrotationmodule_MOD_rotategtol               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:214
+exchangesssmatrix                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:443
+zblock_lu1                                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:599
+setblockalgorithm                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:244
+__clustermatrixmodule_MOD_getkau                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:1265
+__multiscatteringdosmodule_MOD_getmscatteringdos  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:133
+__sssolvermodule_MOD_getsolutionrmeshsize         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:6026
+__multiscatteringdosmodule_MOD_setmsp_specific    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:96
+MPI_Recv                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:367
+find_sym                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:1160
+__mssolvermodule_MOD_computemsgreenfunction       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:793
+computemstmatrix                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:713
+addelectrostruct_c                                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4933
+__procmappingmodule_MOD_getenergyindex            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:271
+addspincantstruct_c                               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5061
+inws                                              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3608
+__inputmodule_MOD_getkeyvalue_str0                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:751
+__defaultparammodule_MOD_getdefaultvalue_r0       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:273
+__radialgridmodule_MOD_getnumrmesh                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1272
+__potentialtypemodule_MOD_isfullpotential         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:193
+__chemelementmodule_MOD_getcorestateindex         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2003
+__atommodule_MOD_getlocalspeciescontent           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1307
+__defaultparammodule_MOD_getdefaultvalue_s0       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:56
+inwhnk                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3519
+__inputmodule_MOD_getkeyindexvalue_int1           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:2079
+__scfdatamodule_MOD_iskkrcpasro                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:872
+__systemmodule_MOD_getnumatoms                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:893
+__systemmodule_MOD_getnumalloyelements            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1045
+__scfdatamodule_MOD_iskkrcpa                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:840
+__chemelementmodule_MOD_getcorestatel_a           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2100
+__chemelementmodule_MOD_getcorestaten_a           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2030
+__chemelementmodule_MOD_getcorestatekappa_a       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2170
+__chemelementmodule_MOD_getcorestatesymbol_a      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:2240
+deepst                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:2811
+MPI_Bcast                                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1132
+__inputmodule_MOD_getkeyindexvalue_real1          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:2304
+__polyhedramodule_MOD_getvolume                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2437
+__potentialgenerationmodule_MOD_getsphpotr        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:837
+__potentialmodule_MOD_getsphpotr                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:567
+__systemmodule_MOD_getalloyelementcontent         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1098
+__systemvolumemodule_MOD_getatomicvpvolume_one    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:251
+aliasarray3_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:357
+__atommodule_MOD_getlocalatomicnumber             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1231
+__systemmodule_MOD_updatesystem                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1932
+MPI_Comm_free                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1432
+__stepfunctionmodule_MOD_getvolumeintegration0    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:1036
+__exchcorrfunctionalmodule_MOD_isggafunctional    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1576
+__scfdatamodule_MOD_ischargecorr                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1060
+MPI_Comm_split                                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1552
+__potentialmodule_MOD_setsphpotr                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:615
+__chargedistributionmodule_MOD_getglobaltableline 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:568
+__scfdatamodule_MOD_ischargesymm                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1526
+__scfdatamodule_MOD_isexchangeparamneeded         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1312
+__systemmodule_MOD_getalloyelementname            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1076
+semcst                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:3233
+zeroelectrostruct                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:709
+__potentialtypemodule_MOD_ismuffintinpotential    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:127
+__scfdatamodule_MOD_ispotentialmixing             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1384
+__scfdatamodule_MOD_iskkr                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:808
+__madelungmodule_MOD_getmadelungmatrix            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:394
+__atom2procmodule_MOD_getlocalnumatoms0           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:137
+__scfdatamodule_MOD_getpotentialtypeparam         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1272
+__inputmodule_MOD_getkeyindexvalue_str1           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1813
+adjustenergy_r_                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/adjustEnergy.F90:2
+__chargedensitymodule_MOD_getsphmomentdensity     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1806
+cleanelectrostruct                                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:672
+__exchcorrfunctionalmodule_MOD_getexchcorrpot_v   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:629
+__valencedensitymodule_MOD_getfermienergy         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:863
+aliasarray4_c                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:373
+__exchcorrfunctionalmodule_MOD_getexchcorrpot_s   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:606
+calexchcorr_v                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1251
+__exchcorrfunctionalmodule_MOD_getexchcorrenden_s 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:564
+aliasarray2_r                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:261
+MPI_Type_size                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:2809
+__radialgridmodule_MOD_getrmesh                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1332
+__systemvolumemodule_MOD_gettotalinterstitialvolume	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:238
+__atommodule_MOD_getlocalconstrainfield           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1214
+setupelectrostruct                                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:596
+__systemmodule_MOD_getbravaislattice              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1173
+calexchcorr_s                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1189
+__chargedensitymodule_MOD_getsphchargedensity     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1215
+__chemelementmodule_MOD_getzcor_a                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1751
+__atommodule_MOD_getatomcorerad                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1961
+__scfdatamodule_MOD_isscreenkkr_lsms              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:901
+__atommodule_MOD_getlocalatomnickname             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1271
+__atommodule_MOD_getlocalatomposition             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1322
+__atommodule_MOD_getmixingparam4evec              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1891
+__chargedistributionmodule_MOD_getinterstitialelectrondensity	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:717
+getmixid                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1249
+__inputmodule_MOD_iskeyexisting                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:679
+__outputmodule_MOD_getstandardoutputlevel_0       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:426
+__systemmodule_MOD_getnumvacancies                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1134
+__radialgridmodule_MOD_getmaxnumrmesh             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1296
+__radialgridmodule_MOD_getradialgridpoint         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1405
+__potentialtypemodule_MOD_istestpotential         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:216
+__potentialgenerationmodule_MOD_getvdif           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:890
+__systemmodule_MOD_getlmaxmax                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1902
+__atommodule_MOD_setlocalevec                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1087
+__scfdatamodule_MOD_isrelativisticvalence         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:702
+__neighbormodule_MOD_getnumreceives               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:732
+__constrainlocalmomentmodule_MOD_getfieldrms      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:855
+__systemmodule_MOD_getlmaxphi0                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1812
+janake2                                           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1369
+__chargedistributionmodule_MOD_getinterstitialelectrondensityold	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:729
+__atommodule_MOD_getipff1                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1593
+__exchcorrfunctionalmodule_MOD_calsphexchangecorrelation_s	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:654
+__neighbormodule_MOD_getnumneighbors              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:345
+__singlescatteringdosmodule_MOD_setssp_generic    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SingleScatteringDOSModule.F90:66
+__outputmodule_MOD_getdensityprintflag            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:476
+__chemelementmodule_MOD_getzval_n                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1918
+__chargedistributionmodule_MOD_getglobalonsiteelectrontableold	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:621
+__systemvolumemodule_MOD_getsystemvolume          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:186
+__scfdatamodule_MOD_isfrozencore                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:601
+__scfdatamodule_MOD_isssirregularsolon            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1024
+__polyhedramodule_MOD_getwignerseitzradius        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2319
+corslv                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:2492
+__corestatesmodule_MOD_getdcd0                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4099
+__systemmodule_MOD_getlmaxrho0                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1842
+__contourmodule_MOD_endcontour                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:962
+__smatrixpolesmodule_MOD_issmatrixpolesinitialized	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:329
+__polyhedramodule_MOD_getnumcorners               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2497
+__potentialtypemodule_MOD_ismuffintinfullpotential	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:314
+__potentialmodule_MOD_setvdif                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1617
+__chemelementmodule_MOD_getzsem_a                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1814
+setpotcompflag                                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2949
+__contourmodule_MOD_initcontour1                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:244
+__exchcorrfunctionalmodule_MOD_getexchcorrenden_v 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:583
+__scfdatamodule_MOD_islloyd                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1438
+__inputmodule_MOD_getkeyvalue_real3               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1382
+__chargedistributionmodule_MOD_getglobalvpcellelectrontable	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:609
+lattice_                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/lattice.F90:61
+__sinematrixzerosmodule_MOD_issinematrixzerosinitialized	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:254
+__procmappingmodule_MOD_isatomonmyproc            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:434
+__corestatesmodule_MOD_getsemicoree1              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4567
+__scfdatamodule_MOD_getsinglesitesolvertype       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1011
+__corestatesmodule_MOD_getscd0                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4238
+__atommodule_MOD_getipfn2                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1562
+__spinrotationmodule_MOD_transformdm3             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:442
+__atom2procmodule_MOD_getglobalindex1             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:246
+__systemmodule_MOD_getradicalplaneratio           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1915
+__valencedensitymodule_MOD_getsphrho_is           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:950
+__radialgridmodule_MOD_getradialgridradius        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:1359
+__corestatesmodule_MOD_getdeepcoree1              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4514
+__polyhedramodule_MOD_getcorner                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2557
+__atom2procmodule_MOD_getmaxlocalnumatoms         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:172
+__neighbormodule_MOD_getsendtable                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:904
+__atommodule_MOD_getmuffintinradius               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1927
+__atommodule_MOD_setatomcorerad                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1978
+__scfdatamodule_MOD_isreademesh                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:959
+__sendrecvtmatmodule_MOD_getnumprocwisesends      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:277
+__defaultparammodule_MOD_getdefaultvalue_r1       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:323
+madsum                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:994
+__outputmodule_MOD_isoutputatombased              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:406
+__scfdatamodule_MOD_isldacorrectionneeded         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1506
+__potentialtypemodule_MOD_ismuffintinasapotential 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:171
+setupchargelist                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:904
+__corestatesmodule_MOD_getsemicorestates          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:5107
+__scfdatamodule_MOD_isembeddedcluster             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:856
+__chargedistributionmodule_MOD_getglobalmtsphereelectrontable	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:597
+__outputmodule_MOD_getpotentialprintflag          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:553
+__potentialmodule_MOD_getvdif                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1632
+__exchcorrfunctionalmodule_MOD_calsphexchangecorrelation_v	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:765
+__valencedensitymodule_MOD_getbandenergy_2        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2009
+transformelectrostruct                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4497
+v_plus_minus                                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:826
+__chargedistributionmodule_MOD_getglobalonsiteelectrontable	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:585
+__systemmodule_MOD_getalloytablesize              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1063
+callatticesystem                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:211
+aliasarray2_r                                     	/home/export/online1/mdt00/shisuan/swzjsys/wys/must/sw-main/build/../lib/arrayTools.F90:261
+__convergencecheckmodule_MOD_endconvergencecheck  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:80
+__valencedensitymodule_MOD_getvalencevpmoment     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:705
+__kreinmodule_MOD_setlloydstatus                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:124
+__procmappingmodule_MOD_getnumesonmyproc          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:257
+__scfdatamodule_MOD_getdosrunid                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1259
+__scfdatamodule_MOD_getadaptiveintegrationmethod  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1544
+__madelungmodule_MOD_endmadelung                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:287
+__atommodule_MOD_setlocalconstrainfield           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1197
+__systemmodule_MOD_setexchangefielddirection      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1483
+__systemmodule_MOD_getlmaxkkr0                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1782
+__corestatesmodule_MOD_getcorevpc1                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4618
+__multiscatteringdosmodule_MOD_setmsp_ef          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:118
+__checkpointmodule_MOD_endcheckpoint              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:52
+__valencedensitymodule_MOD_getvalencemtmoment     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:799
+__systemmodule_MOD_setmomentdirection             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1416
+__corestatesmodule_MOD_getdcd2                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4148
+__systemmodule_MOD_setatomenergy                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1689
+u_sigma_u                                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:337
+__systemmodule_MOD_setconstrainfield              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1547
+__atommodule_MOD_getmaxlmax                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1519
+addspincantstruct_r                               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5029
+__latticemodule_MOD_endlattice                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:141
+__systemsymmetrymodule_MOD_getsymmetryflags1      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:443
+__valencedensitymodule_MOD_getvalencesphericalmomentdensity	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1118
+__polyhedramodule_MOD_getinscrsphvolume           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2457
+__corestatesmodule_MOD_getscd2                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4287
+__atommodule_MOD_setlocalmoment_v                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1018
+__valencedensitymodule_MOD_setvalencevpcharge     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:642
+__systemmodule_MOD_setrmsinfo                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1643
+__checkpointmodule_MOD_initcheckpoint             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:41
+__scfdatamodule_MOD_isfittedchargeden             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1042
+__kreinmodule_MOD_setlloydq1                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:137
+__systemmodule_MOD_getatomicnumber_all            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1281
+__atommodule_MOD_getrholmax                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1404
+__potentialmodule_MOD_getpotlmax                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1672
+__sendrecvtmatmodule_MOD_getnonlocalneighbors     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:254
+__sendrecvtmatmodule_MOD_getnumnonlocalneighbors  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:196
+__sendrecvtmatmodule_MOD_getnumprocwisereceives   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:295
+__totalenergymodule_MOD_getenergyperatom          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:161
+__atommodule_MOD_getopff0                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1658
+__procmappingmodule_MOD_getnumredundantesonmyproc 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:315
+__scfdatamodule_MOD_ischargemixing                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1402
+__scfdatamodule_MOD_isdgamixing                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1348
+__systemmodule_MOD_getmomentdirectionmixingparam  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1358
+__scfdatamodule_MOD_isnonrelativisticvalence      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:662
+__atommodule_MOD_getmixingparam4pot               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1834
+__potentialtypemodule_MOD_issphericalpotential    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:92
+__systemmodule_MOD_getatomtype_1                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:995
+__neighbormodule_MOD_getmaxreceives               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:754
+__sendrecvtmatmodule_MOD_getprocwisetargetprocs   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:313
+__systemmodule_MOD_setlatticeconstant             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1703
+__atommodule_MOD_getstepfunclmax                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1355
+__scfdatamodule_MOD_isefiterateon                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1136
+__atommodule_MOD_setmuffintinradius               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1944
+__atommodule_MOD_getpotlmax                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1437
+__neighbormodule_MOD_setmaxreceives               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:773
+__atommodule_MOD_getmixingparam4charge            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1853
+getkmaxintern                                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1174
+__atommodule_MOD_getkkrlmax                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1339
+__systemmodule_MOD_setsiteliz                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:906
+__systemmodule_MOD_getatomposition_all            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1313
+__corestatesmodule_MOD_getcoredensityrmeshsize    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:4070
+__potentialmodule_MOD_gettruncpotlmax             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1685
+__scfdatamodule_MOD_getlmaxpotsolver              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1233
+__ldacorrectionmodule_MOD_islcn                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LdaCorrectionModule.F90:258
+__scfdatamodule_MOD_isnonrelativisticcore         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:642
+__scfdatamodule_MOD_getcantedmomenttorquefactor   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1285
+__scfdatamodule_MOD_issimplemixing                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1330
+__potentialgenerationmodule_MOD_setvdif           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:938
+__polyhedramodule_MOD_getboxvolume                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:2479
+__atommodule_MOD_getipff0                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1580
+__potentialmodule_MOD_setpotef                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1659
+__systemmodule_MOD_getscalingfactor               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1327
+__scfdatamodule_MOD_getsinglesitesolvermethod     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1220
+__potentialmodule_MOD_getpotef                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1646
+__systemmodule_MOD_getmomentdirection_one         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1379
+__scfdatamodule_MOD_getmixingparamforfermienergy  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1730
+__systemmodule_MOD_getadditionalelectrons         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1727
+__valencedensitymodule_MOD_getvalencevpcharge     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:621
+__contourmodule_MOD_geteall                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1148
+__kreinmodule_MOD_endkrein                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:100
+__atommodule_MOD_getradialgriddata                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1791
+__systemmodule_MOD_getconstrainfield_one          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:1513
+__valencedensitymodule_MOD_getexchangeenergy      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2171
+genkbravais                                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:279
+__atommodule_MOD_gettruncpotlmax                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1470
+__atommodule_MOD_getlizlmax                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1503
+__sendrecvtmatmodule_MOD_getprocwisesourceprocs   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:335
+__kreinmodule_MOD_islloydon                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/KreinModule.F90:177
+__neighbormodule_MOD_getrecvtable                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:968
+__atom2procmodule_MOD_getlocalnumatoms1           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:153
+__atommodule_MOD_getphilmax                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1371
+__chargedistributionmodule_MOD_getglobalmtsphereelectrontableold	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:633
+__sendrecvtmatmodule_MOD_getmaxneighbors          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:214
+__stepfunctionmodule_MOD_getstepfunction3         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:825
+__contourmodule_MOD_getnes                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1042
+__stepfunctionmodule_MOD_getnumgaussrs            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2399
+__potentialtypemodule_MOD_endpotentialtype        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:48
+__singlescatteringdosmodule_MOD_setssp_ef         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SingleScatteringDOSModule.F90:104
+__contourmodule_MOD_getewall                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:1102
+__scfdatamodule_MOD_getlmaxsolution               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1246
+__scfdatamodule_MOD_isbroydenmixing               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:1366
+__uniform3dgridmodule_MOD_isuniform3dgridinitialized	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Uniform3DGridModule.F90:122
+__radialgridmodule_MOD_genradialgrid              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:832
+__sssolvermodule_MOD_endsssolver                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:971
+calzeropotential_mt                               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:2314
+getu0                                             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1891
+__systemvolumemodule_MOD_initsystemvolume         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:44
+updatemixrealvalues_                              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/updateMixRealValues.F90:2
+loaddefaultkeyvalues                              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:489
+genlattice                                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:579
+setupgaugrid                                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:724
+__constrainlocalmomentmodule_MOD_calconstrainlm   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:181
+__smatrixpolesmodule_MOD_initsmatrixpoles         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:110
+__mssolvermodule_MOD_initmssolver                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:188
+__exchcorrfunctionalmodule_MOD_initexchcorrfunctional	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:108
+__chargedistributionmodule_MOD_initchargedistribution	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:102
+__outputmodule_MOD_initoutput                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:82
+addelectrostruct_r                                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4837
+calbroydenmixing                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:648
+setupmixrealarraylist_                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupMixRealArrayList.F90:2
+updateglobalcorestatestable                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:5171
+getparea                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1806
+setuprecvtable                                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:851
+calintegrateddos                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:1685
+__gfmethodmodule_MOD_calvalencestates             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:821
+__sinematrixzerosmodule_MOD_initsinematrixzeros   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:82
+__sinematrixzerosmodule_MOD_endsinematrixzeros    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SineMatrixZerosModule.F90:202
+averageelectrostruct                              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5701
+initparameters                                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:385
+__totalenergymodule_MOD_computeenergyfunctional   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:223
+__inputmodule_MOD_readinputdata                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:232
+initchemelement                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:122
+__valencedensitymodule_MOD_updatevalenceevec      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2858
+__constrainlocalmomentmodule_MOD_updateconstrainlm	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:602
+__gfmethodmodule_MOD_endgfmethod                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:520
+__smatrixpolesmodule_MOD_endsmatrixpoles          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SMatrixPolesModule.F90:247
+__potentialmodule_MOD_initpotential               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:131
+__mssolvermodule_MOD_endmssolver                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:502
+__systemsymmetrymodule_MOD_calsymmetryflags       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:126
+readpositiondata_                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/readPositionData.F90:20
+__valencedensitymodule_MOD_updatefermienergy      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2289
+__potentialmodule_MOD_readpotential               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1698
+__neighbormodule_MOD_setneighbor                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:197
+constructnewpotential                             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:1978
+putpotg_                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/putpotg.F90:3
+__chargedensitymodule_MOD_updatetotaldensity      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:3703
+printscfresults_                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/printScfResults.F90:2
+setupcellbound                                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1047
+caltruncsymmetryflags                             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:211
+MPI_Cart_create                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1939
+__corestatesmodule_MOD_readcorestates             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:537
+buildsendtable_                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/buildSendTable.F90:2
+setuppolyhedron                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:614
+readformatteddata                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:642
+calscalingfactor                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:304
+calmultiplescatteringidos                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:3990
+__clustermatrixmodule_MOD_endclustermatrix        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:295
+__clustermatrixmodule_MOD_initclustermatrix       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:118
+calsphpotential                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:2014
+__gfmethodmodule_MOD_initgfmethod                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:173
+__corestatesmodule_MOD_calcorestates              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:1626
+setuplizneighbor_                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupLizNeighbor.F90:1
+readformatteddata                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:1872
+allocateirrspace                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1190
+__atommodule_MOD_initatom                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:197
+__sssolvermodule_MOD_initsssolver                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:322
+mst2                                              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/mst2.F90:1
+MPI_Init                                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:22
+setupstepfunction                                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:438
+MPI_Finalize                                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:79
+__scfdatamodule_MOD_initscfdata                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ScfDataModule.F90:209
+computecriticalpoints                             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:2483
+geticp                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:1623
+__systemmodule_MOD_initsystem                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:190
+__potentialgenerationmodule_MOD_computenewpotential	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:1215
+__convergencecheckmodule_MOD_checkconvergence     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:91
+__potentialgenerationmodule_MOD_initpotentialgeneration	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:207
+allocateexchsssmat                                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:357
+__corestatesmodule_MOD_initcorestates             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:204
+__valencedensitymodule_MOD_initvalencedensity     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:159
+averagecfuncxproc_                                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/averageAcrossProcesses.F90:28
+updatepotential_                                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/updatePotential.F90:1
+computesphericaltotalenergy                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:925
+writeunformatteddata                              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2778
+setupicfmsgbuf_                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/putpotg.F90:422
+__chargedistributionmodule_MOD_updatechargedistribution	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:358
+__chargedensitymodule_MOD_initchargedensity       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:205
+__procmappingmodule_MOD_createparallelization     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:469
+__chargedensitymodule_MOD_constructchargedensity  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:2375
+genfactors                                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:93
+setbroydenspace                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1334
+__valencedensitymodule_MOD_updatevalencedensity   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2468
+__chemelementmodule_MOD_getzval_a                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChemElementModule.F90:1877
+__constrainlocalmomentmodule_MOD_endconstrainlm   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:122
+setupprocdim                                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:929
+__adaptintegrationmodule_MOD_endadaptintegration  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AdaptIntegrationModule.F90:69
+__sendrecvtmatmodule_MOD_endsendrecvtmat          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:150
+sumesval_r                                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:4568
+__mixingmodule_MOD_initmixing                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:172
+__spinrotationmodule_MOD_endspinrotation          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:69
+__potentialtypemodule_MOD_initpotentialtype       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialTypeModule.F90:30
+__polyhedramodule_MOD_initpolyhedra               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:136
+__mixingmodule_MOD_mixvalues                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:250
+__procmappingmodule_MOD_initprocmapping_1         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:115
+__forcemodule_MOD_endforce                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ForceModule.F90:60
+__inputmodule_MOD_initinput                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:86
+__valencedensitymodule_MOD_updatevalenceenergy    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2250
+__atommodule_MOD_endatom                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:987
+__systemmodule_MOD_writemomentdirectiondata       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:2020
+__systemvolumemodule_MOD_endsystemvolume          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemVolumeModule.F90:165
+__chargedistributionmodule_MOD_endchargedistribution	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDistributionModule.F90:327
+__contourmodule_MOD_setupcontour                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ContourModule.F90:367
+genfactors                                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MSSolverModule.F90:1669
+__rspacestrconstmodule_MOD_endrspacestrconst      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:166
+__valencedensitymodule_MOD_updatevalencecharge    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:2194
+MPI_Cart_coords                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/timer/mpiwrapper.c:1916
+__atom2procmodule_MOD_endatom2proc                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:122
+__valencedensitymodule_MOD_getvmd3                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1745
+__valencedensitymodule_MOD_setvalencevpmomentsize 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:769
+__valencedensitymodule_MOD_getvalencesphericalelectrondensity	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1075
+__totalenergymodule_MOD_endtotalenergy            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:134
+__radialgridmodule_MOD_initradialgrid             	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:91
+__systemmodule_MOD_resetsystemmovie               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:2204
+__exchcorrfunctionalmodule_MOD_ishartreeapproximation	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:1540
+__defaultparammodule_MOD_enddefaultparam          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:46
+__valencedensitymodule_MOD_getved2                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:1466
+__mixingmodule_MOD_setbroydenmixing               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:560
+__adaptintegrationmodule_MOD_initadaptintegration 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AdaptIntegrationModule.F90:35
+set_b_basis                                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:509
+zeropt                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:1828
+__multiscatteringdosmodule_MOD_setmsp_generic     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MultiScatteringDOSModule.F90:65
+__checkpointmodule_MOD_insertstoppoint            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CheckPointModule.F90:81
+__procmappingmodule_MOD_endprocmapping            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ProcMappingModule.F90:162
+__systemsymmetrymodule_MOD_endsystemsymmetry      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:104
+__radialgridmodule_MOD_endradialgrid              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RadialGridModule.F90:123
+getsizeof                                         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1091
+__inputmodule_MOD_getkeyvalue_int2                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:1095
+__stepfunctionmodule_MOD_initstepfunction1        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:284
+__matrixblockinversionmodule_MOD_endmatrixblockinv	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:214
+__totalenergymodule_MOD_inittotalenergy           	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/TotalEnergyModule.F90:62
+__neighbormodule_MOD_endneighbor                  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:96
+main                                              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/mst2.F90:4
+__defaultparammodule_MOD_initdefaultparam         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/DefaultParamModule.F90:27
+__corestatesmodule_MOD_endcorestates              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/CoreStatesModule.F90:957
+__stepfunctionmodule_MOD_endstepfunction          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/StepFunctionModule.F90:644
+mufind                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5270
+__constrainlocalmomentmodule_MOD_initconstrainlm  	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConstrainLocalMomentModule.F90:48
+__potentialgenerationmodule_MOD_endpotentialgeneration	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialGenerationModule.F90:744
+__neighbormodule_MOD_initneighbor                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:51
+readmomentdirectiondata_                          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/readMomentDirectionData.F90:23
+__matrixblockinversionmodule_MOD_initmatrixblockinv	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MatrixBlockInversionModule.F90:54
+setupmixingscheme_                                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/setupMixingScheme.F90:2
+__polyhedramodule_MOD_genpoly2                    	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:318
+caldensity                                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/GFMethodModule.F90:5772
+__potentialmodule_MOD_writepotential              	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:2515
+calmadsymmetryflags                               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:287
+__madelungmodule_MOD_initmadelung                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:83
+__atom2procmodule_MOD_initatom2proc               	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/Atom2ProcModule.F90:43
+__sendrecvtmatmodule_MOD_initsendrecvtmat         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SendRecvTmatModule.F90:42
+__systemsymmetrymodule_MOD_initsystemsymmetry     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemSymmetryModule.F90:57
+cleanexchsssmat                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ClusterMatrixModule.F90:421
+__publicparamdefinitionsmodule_MOD_checkparameter 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PublicParamDefinitionsModule.F90:96
+__neighbormodule_MOD_setsendtable                 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/NeighborModule.F90:792
+__spinrotationmodule_MOD_initspinrotation         	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:42
+__valencedensitymodule_MOD_endvalencedensity      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ValenceDensityModule.F90:433
+__convergencecheckmodule_MOD_initconvergencecheck 	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ConvergenceCheckModule.F90:29
+madewd                                            	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MadelungModule.F90:844
+__chargedensitymodule_MOD_endchargedensity        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ChargeDensityModule.F90:1152
+__spinrotationmodule_MOD_calspinrotation          	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SpinRotationModule.F90:83
+__systemmodule_MOD_endsystem                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SystemModule.F90:837
+__outputmodule_MOD_endoutput                      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/OutputModule.F90:360
+__potentialmodule_MOD_endpotential                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PotentialModule.F90:533
+__atommodule_MOD_updatelocalexchangefielddir      	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/AtomModule.F90:1173
+__latticemodule_MOD_initlatt0                     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/LatticeModule.F90:33
+deallocateirrspace                                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/SSSolverModule.F90:1248
+__inputmodule_MOD_endinput                        	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/InputModule.F90:105
+__polyhedramodule_MOD_endpolyhedra                	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/PolyhedraModule.F90:192
+__exchcorrfunctionalmodule_MOD_endexchcorrfunctional	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ExchCorrFunctionalModule.F90:513
+setworkingspace                                   	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/MixingModule.F90:1363
+__forcemodule_MOD_initforce                       	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/ForceModule.F90:26
+__rspacestrconstmodule_MOD_initrspacestrconst     	/home/export/base/shisuan/swzjsys/online/wys/must/sw-main/src/RSpaceStrConstModule.F90:128
